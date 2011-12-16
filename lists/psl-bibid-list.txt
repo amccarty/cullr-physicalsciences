@@ -1,1 +1,1234 @@
-7091974	earth sciences	dictionary
+1812147	General Physics	
+3301649	General Astronomy	
+3301649	General Chemistry	
+3301649	General Physics	
+3326779	Optical Physics, Quantum Electronics, Photonics	
+3756126	Nanoscience and Nanobiotechnology	
+3811849	Particle Physics	
+3995313	General Astronomy	
+3995313	General Chemistry	
+3995313	General Physics	
+4029110	General Astronomy	
+4029110	General Chemistry	
+4029110	General Physics	
+4375865	Chemical Physics	
+4375865	Condensed Matter and Solid State	
+4375865	General Chemistry	
+4375865	General Physics	
+4375865	Nanoscience and Nanobiotechnology	
+4375865	Optical Physics, Quantum Electronics, Photonics	
+4375865	Physical Chemistry	
+4732150	Mathematical Physics	
+4732150	Particle Physics	
+4822923	Condensed Matter and Solid State	
+4832118	General Astronomy	
+4833001	General Physics	
+4833001	Particle Physics	
+4833096	General Chemistry	
+4833992	General Chemistry	
+4835520	General Physics	
+4835734	Cosmology	
+4835734	General Astronomy	
+4835734	General Relativity	
+4835734	Infrared, Optical, and Radio Astronomy	
+4835734	Planetary Science	
+4859896	Chemical Physics	
+4859896	General Physics	
+4859896	Mathematical Physics	
+4859896	Physical Chemistry	
+4885966	Particle Physics	
+5027246	Chemical Biology	
+5027246	Inorganic and Organometallic Chemistry	
+5035092	Biological Physics	
+5035092	Chemical Biology	
+5119073	Biological Physics	
+5119073	Chemical Biology	
+5156082	Chemical Biology	
+5262506	Chemical Biology	
+5368652	Analytical Chemistry	
+5368652	Chemical Biology	
+5368652	Chemical Physics	
+5368652	General Chemistry	
+5368652	Inorganic and Organometallic Chemistry	
+5368652	Nanoscience and Nanobiotechnology	
+5368652	Organic Chemistry	
+5368652	Physical Chemistry	
+5368652	Polymer Chemistry	
+5368699	Chemical Physics	
+5368699	Physical Chemistry	
+5368701	Chemical Physics	
+5368701	Physical Chemistry	
+5368702	Chemical Physics	
+5368702	Physical Chemistry	
+5368703	Biological Physics	
+5368703	Chemical Biology	
+5368703	Chemical Physics	
+5368703	Physical Chemistry	
+5368704	Chemical Physics	
+5368704	Physical Chemistry	
+5368705	Biological Physics	
+5368705	Chemical Biology	
+5368705	Chemical Physics	
+5368705	Physical Chemistry	
+5368795	Analytical Chemistry	
+5368795	Chemical Biology	
+5368795	Chemical Physics	
+5368795	Inorganic and Organometallic Chemistry	
+5368795	Nanoscience and Nanobiotechnology	
+5368795	Organic Chemistry	
+5368795	Physical Chemistry	
+5368795	Polymer Chemistry	
+5368803	Organic Chemistry	
+5368808	Chemical Physics	
+5368808	Physical Chemistry	
+5368825	Condensed Matter and Solid State	
+5368825	General Physics	
+5369399	Analytical Chemistry	
+5369402	Analytical Chemistry	
+5369403	Analytical Chemistry	
+5369403	Chemical Biology	
+5369404	Analytical Chemistry	
+5369404	Chemical Biology	
+5369405	Analytical Chemistry	
+5369410	Analytical Chemistry	
+5369429	General Chemistry	
+5369430	Analytical Chemistry	
+5369430	Chemical Biology	
+5369430	Chemical Physics	
+5369430	General Chemistry	
+5369430	Inorganic and Organometallic Chemistry	
+5369430	Nanoscience and Nanobiotechnology	
+5369430	Organic Chemistry	
+5369430	Physical Chemistry	
+5369430	Polymer Chemistry	
+5369451	General Physics	
+5369497	Biological Physics	
+5369497	Chemical Physics	
+5369497	Condensed Matter and Solid State	
+5369497	General Physics	
+5369497	Mathematical Physics	
+5369497	Nanoscience and Nanobiotechnology	
+5369497	Optical Physics, Quantum Electronics, Photonics	
+5369497	Particle Physics	
+5369497	Physical Chemistry	
+5369527	Inorganic and Organometallic Chemistry	
+5369529	Organic Chemistry	
+5369530	Chemical Physics	
+5369530	Physical Chemistry	
+5369533	Cosmology	
+5369533	General Astronomy	
+5369533	General Relativity	
+5369540	Planetary Science	
+5369552	Nanoscience and Nanobiotechnology	
+5369557	Particle Physics	
+5369560	Chemical Physics	
+5369560	Physical Chemistry	
+5369671	Inorganic and Organometallic Chemistry	
+5369735	Chemical Biology	
+5369742	Mathematical Physics	
+5369746	Biological Physics	
+5369746	Chemical Biology	
+5369973	Astrophysics	
+5369973	Planetary Science	
+5369974	Cosmology	
+5369974	General Astronomy	
+5369974	General Relativity	
+5369974	Infrared, Optical, and Radio Astronomy	
+5369974	Planetary Science	
+5369975	General Astronomy	
+5369977	Astrophysics	
+5369977	General Astronomy	
+5369977	Planetary Science	
+5369978	General Astronomy	
+5369979	Astrophysics	
+5369979	General Astronomy	
+5369980	Astrophysics	
+5369980	Cosmology	
+5369980	General Astronomy	
+5369980	General Relativity	
+5369982	Astrophysics	
+5369982	Cosmology	
+5369982	General Relativity	
+5369983	Astrophysics	
+5369984	Astrophysics	
+5369986	Astrophysics	
+5370014	Chemical Physics	
+5370014	Particle Physics	
+5370014	Physical Chemistry	
+5370068	General Chemistry	
+5370392	Biological Physics	
+5370392	Chemical Biology	
+5370399	Chemical Biology	
+5370404	Biological Physics	
+5370404	Chemical Biology	
+5370406	Biological Physics	
+5370406	Chemical Biology	
+5370407	Biological Physics	
+5370407	Chemical Biology	
+5370408	Biological Physics	
+5370408	Chemical Biology	
+5370408	General Chemistry	
+5370410	Biological Physics	
+5370410	Chemical Biology	
+5370411	Biological Physics	
+5370411	Chemical Biology	
+5370412	Biological Physics	
+5370412	Chemical Biology	
+5370414	Biological Physics	
+5370414	Chemical Biology	
+5370416	Biological Physics	
+5370416	Chemical Biology	
+5370417	Chemical Biology	
+5370418	Chemical Biology	
+5370418	Organic Chemistry	
+5370425	Biological Physics	
+5370425	Chemical Biology	
+5370425	Nanoscience and Nanobiotechnology	
+5370427	Chemical Biology	
+5370427	Nanoscience and Nanobiotechnology	
+5370460	Chemical Biology	
+5370460	Organic Chemistry	
+5370460	Polymer Chemistry	
+5370480	Chemical Biology	
+5370480	Organic Chemistry	
+5370481	Chemical Biology	
+5370481	Organic Chemistry	
+5370482	Chemical Biology	
+5370482	Organic Chemistry	
+5370485	Biological Physics	
+5370485	Chemical Biology	
+5370488	Chemical Biology	
+5370488	Polymer Chemistry	
+5370497	Analytical Chemistry	
+5370575	Chemical Biology	
+5370743	General Physics	
+5371205	Chemical Biology	
+5371205	Organic Chemistry	
+5371286	Astrophysics	
+5371354	General Physics	
+5371355	General Physics	
+5371373	General Chemistry	
+5371374	Chemical Biology	
+5371382	General Chemistry	
+5371385	General Chemistry	
+5371385	Nanoscience and Nanobiotechnology	
+5371398	Chemical Physics	
+5371398	Physical Chemistry	
+5371399	Chemical Physics	
+5371399	Physical Chemistry	
+5371400	General Chemistry	
+5371401	Chemical Biology	
+5371402	Analytical Chemistry	
+5371402	Chemical Biology	
+5371402	Chemical Physics	
+5371402	General Chemistry	
+5371402	Inorganic and Organometallic Chemistry	
+5371402	Nanoscience and Nanobiotechnology	
+5371402	Organic Chemistry	
+5371402	Physical Chemistry	
+5371402	Polymer Chemistry	
+5371404	Analytical Chemistry	
+5371404	Chemical Biology	
+5371404	Chemical Physics	
+5371404	General Chemistry	
+5371404	Inorganic and Organometallic Chemistry	
+5371404	Nanoscience and Nanobiotechnology	
+5371404	Organic Chemistry	
+5371404	Physical Chemistry	
+5371404	Polymer Chemistry	
+5371406	Nanoscience and Nanobiotechnology	
+5371406	Nanoscience and Nanobiotechnology	
+5371409	General Chemistry	
+5371410	General Chemistry	
+5371410	Nanoscience and Nanobiotechnology	
+5371412	General Chemistry	
+5371413	Chemical Biology	
+5371414	Chemical Biology	
+5371419	Chemical Physics	
+5371419	Nanoscience and Nanobiotechnology	
+5371419	Nanoscience and Nanobiotechnology	
+5371419	Physical Chemistry	
+5371420	Organic Chemistry	
+5371421	General Chemistry	
+5371424	Chemical Biology	
+5371427	Chemical Physics	
+5371427	Physical Chemistry	
+5371519	General Physics	
+5371522	Analytical Chemistry	
+5371522	Chemical Biology	
+5371522	Organic Chemistry	
+5371569	Analytical Chemistry	
+5371631	Astrophysics	
+5371631	General Relativity	
+5371631	Particle Physics	
+5371767	Chemical Physics	
+5371767	Physical Chemistry	
+5371767	Polymer Chemistry	
+5371771	Biological Physics	
+5371771	Chemical Physics	
+5371771	Nanoscience and Nanobiotechnology	
+5371771	Physical Chemistry	
+5371864	Mathematical Physics	
+5371950	Chemical Biology	
+5372015	Chemical Physics	
+5372015	Mathematical Physics	
+5372015	Physical Chemistry	
+5372069	Analytical Chemistry	
+5372069	Chemical Physics	
+5372069	General Physics	
+5372069	Physical Chemistry	
+5372070	Analytical Chemistry	
+5372070	Chemical Physics	
+5372070	Physical Chemistry	
+5372190	General Physics	
+5372236	Inorganic and Organometallic Chemistry	
+5372286	Astrophysics	
+5372679	Analytical Chemistry	
+5372680	Chemical Biology	
+5372688	Chemical Physics	
+5372688	Condensed Matter and Solid State	
+5372688	Nanoscience and Nanobiotechnology	
+5372688	Physical Chemistry	
+5372711	Chemical Biology	
+5372785	Biological Physics	
+5372785	Chemical Biology	
+5372786	Chemical Physics	
+5372786	Physical Chemistry	
+5372921	Inorganic and Organometallic Chemistry	
+5373203	Biological Physics	
+5373203	Chemical Biology	
+5373209	General Chemistry	
+5373210	Chemical Physics	
+5373210	Physical Chemistry	
+5373305	Planetary Science	
+5373340	General Chemistry	
+5373521	Analytical Chemistry	
+5373521	Nanoscience and Nanobiotechnology	
+5373522	Condensed Matter and Solid State	
+5373522	Nanoscience and Nanobiotechnology	
+5373522	Nanoscience and Nanobiotechnology	
+5373523	Condensed Matter and Solid State	
+5373523	Nanoscience and Nanobiotechnology	
+5373523	Nanoscience and Nanobiotechnology	
+5373524	Nanoscience and Nanobiotechnology	
+5373524	Nanoscience and Nanobiotechnology	
+5373946	Inorganic and Organometallic Chemistry	
+5373955	Chemical Biology	
+5373962	Organic Chemistry	
+5373967	Chemical Biology	
+5373973	General Physics	
+5374001	Astrophysics	
+5374001	Particle Physics	
+5374001	Particle Physics	
+5374003	Particle Physics	
+5374004	Chemical Physics	
+5374004	Chemical Physics	
+5374004	Optical Physics, Quantum Electronics, Photonics	
+5374004	Particle Physics	
+5374004	Physical Chemistry	
+5374004	Physical Chemistry	
+5374007	Polymer Chemistry	
+5374034	General Physics	
+5374035	General Physics	
+5374116	Astrophysics	
+5374116	General Astronomy	
+5374196	Chemical Physics	
+5374196	Physical Chemistry	
+5374403	Chemical Physics	
+5374403	Physical Chemistry	
+5374509	Mathematical Physics	
+5374517	Chemical Physics	
+5374517	General Chemistry	
+5374517	Nanoscience and Nanobiotechnology	
+5374517	Physical Chemistry	
+5374519	General Physics	
+5374519	General Physics	
+5374671	General Relativity	
+5374671	General Relativity	
+5374671	Particle Physics	
+5374713	Planetary Science	
+5374714	Infrared, Optical, and Radio Astronomy	
+5374714	Planetary Science	
+5374737	Planetary Science	
+5374741	Astrophysics	
+5374741	Planetary Science	
+5374903	General Chemistry	
+5375125	General Chemistry	
+5375222	General Astronomy	
+5375222	General Chemistry	
+5375222	General Physics	
+5375399	General Chemistry	
+5375401	Chemical Physics	
+5375401	Condensed Matter and Solid State	
+5375401	Nanoscience and Nanobiotechnology	
+5375401	Particle Physics	
+5375401	Physical Chemistry	
+5375414	General Astronomy	
+5375414	Planetary Science	
+5375546	Chemical Biology	
+5375589	Nanoscience and Nanobiotechnology	
+5375754	General Chemistry	
+5375754	Nanoscience and Nanobiotechnology	
+5375865	Infrared, Optical, and Radio Astronomy	
+5375865	Optical Physics, Quantum Electronics, Photonics	
+5375880	Inorganic and Organometallic Chemistry	
+5375881	Inorganic and Organometallic Chemistry	
+5375881	Nanoscience and Nanobiotechnology	
+5375881	Nanoscience and Nanobiotechnology	
+5375882	Inorganic and Organometallic Chemistry	
+5376118	Chemical Physics	
+5376118	Physical Chemistry	
+5376305	Chemical Physics	
+5376305	Mathematical Physics	
+5376305	Optical Physics, Quantum Electronics, Photonics	
+5376305	Physical Chemistry	
+5376357	Mathematical Physics	
+5376428	Chemical Physics	
+5376428	Physical Chemistry	
+5376784	Chemical Physics	
+5376784	Nanoscience and Nanobiotechnology	
+5376784	Nanoscience and Nanobiotechnology	
+5376784	Physical Chemistry	
+5376797	Analytical Chemistry	
+5376815	Chemical Physics	
+5376815	Physical Chemistry	
+5376820	Nanoscience and Nanobiotechnology	
+5376831	Mathematical Physics	
+5376837	Biological Physics	
+5376837	Chemical Physics	
+5376837	Condensed Matter and Solid State	
+5376837	General Physics	
+5376837	Nanoscience and Nanobiotechnology	
+5376837	Optical Physics, Quantum Electronics, Photonics	
+5376837	Physical Chemistry	
+5376872	Planetary Science	
+5376878	Analytical Chemistry	
+5376921	Analytical Chemistry	
+5376921	Chemical Biology	
+5376921	Chemical Physics	
+5376921	Physical Chemistry	
+5376967	Chemical Physics	
+5376967	Physical Chemistry	
+5376975	General Chemistry	
+5376977	Chemical Biology	
+5376978	General Chemistry	
+5376981	Chemical Physics	
+5376981	Physical Chemistry	
+5376983	General Chemistry	
+5376984	Analytical Chemistry	
+5376984	Mathematical Physics	
+5376996	Analytical Chemistry	
+5376996	Chemical Biology	
+5376997	Analytical Chemistry	
+5376997	Chemical Biology	
+5377035	Chemical Physics	
+5377035	Physical Chemistry	
+5377074	Mathematical Physics	
+5377076	Mathematical Physics	
+5377117	Analytical Chemistry	
+5377117	Chemical Biology	
+5377117	Chemical Physics	
+5377117	Inorganic and Organometallic Chemistry	
+5377117	Nanoscience and Nanobiotechnology	
+5377117	Organic Chemistry	
+5377117	Physical Chemistry	
+5377117	Polymer Chemistry	
+5377145	Chemical Physics	
+5377145	Physical Chemistry	
+5377227	Analytical Chemistry	
+5377227	Chemical Physics	
+5377227	Physical Chemistry	
+5377357	Analytical Chemistry	
+5377358	Inorganic and Organometallic Chemistry	
+5377358	Organic Chemistry	
+5377402	Mathematical Physics	
+5377403	Astrophysics	
+5377403	Planetary Science	
+5377406	Planetary Science	
+5377458	Particle Physics	
+5377521	Chemical Biology	
+5377521	Inorganic and Organometallic Chemistry	
+5377603	Analytical Chemistry	
+5377603	Chemical Biology	
+5377654	Condensed Matter and Solid State	
+5377659	Analytical Chemistry	
+5377659	Chemical Physics	
+5377659	Physical Chemistry	
+5377663	Condensed Matter and Solid State	
+5377663	Nanoscience and Nanobiotechnology	
+5377699	Analytical Chemistry	
+5377699	Biological Physics	
+5377699	Organic Chemistry	
+5377701	Chemical Physics	
+5377701	Nanoscience and Nanobiotechnology	
+5377701	Physical Chemistry	
+5377712	Chemical Physics	
+5377712	Physical Chemistry	
+5377717	Mathematical Physics	
+5377734	Chemical Biology	
+5377751	Nanoscience and Nanobiotechnology	
+5377751	Optical Physics, Quantum Electronics, Photonics	
+5377773	Chemical Biology	
+5377773	Chemical Physics	
+5377773	Physical Chemistry	
+5377777	Analytical Chemistry	
+5377777	Chemical Physics	
+5377777	Physical Chemistry	
+5377778	Chemical Physics	
+5377778	Physical Chemistry	
+5377798	Nanoscience and Nanobiotechnology	
+5377834	Nanoscience and Nanobiotechnology	
+5377877	Organic Chemistry	
+5377884	Inorganic and Organometallic Chemistry	
+5377948	Biological Physics	
+5377948	Chemical Biology	
+5377950	Chemical Physics	
+5377950	General Chemistry	
+5377950	General Physics	
+5377950	Physical Chemistry	
+5377952	Chemical Physics	
+5377952	Physical Chemistry	
+5377955	Chemical Physics	
+5377955	Organic Chemistry	
+5377955	Physical Chemistry	
+5377959	Chemical Physics	
+5377959	Condensed Matter and Solid State	
+5377959	Physical Chemistry	
+5377961	Chemical Physics	
+5377961	Optical Physics, Quantum Electronics, Photonics	
+5377961	Physical Chemistry	
+5377964	Biological Physics	
+5377964	Chemical Physics	
+5377964	General Physics	
+5377964	Nanoscience and Nanobiotechnology	
+5377964	Optical Physics, Quantum Electronics, Photonics	
+5377964	Physical Chemistry	
+5377967	Particle Physics	
+5377981	Astrophysics	
+5377981	Mathematical Physics	
+5377981	Particle Physics	
+5377994	Polymer Chemistry	
+5377995	Chemical Physics	
+5377995	Physical Chemistry	
+5378057	Analytical Chemistry	
+5378057	Inorganic and Organometallic Chemistry	
+5378057	Particle Physics	
+5378060	Analytical Chemistry	
+5378060	Chemical Physics	
+5378060	Physical Chemistry	
+5378162	Chemical Physics	
+5378162	Inorganic and Organometallic Chemistry	
+5378162	Physical Chemistry	
+5378163	Chemical Physics	
+5378163	Physical Chemistry	
+5378182	Mathematical Physics	
+5378193	Chemical Physics	
+5378193	Inorganic and Organometallic Chemistry	
+5378193	Physical Chemistry	
+5378202	Analytical Chemistry	
+5378214	Optical Physics, Quantum Electronics, Photonics	
+5378235	Analytical Chemistry	
+5378235	Chemical Biology	
+5378235	Chemical Physics	
+5378235	General Chemistry	
+5378235	Inorganic and Organometallic Chemistry	
+5378235	Nanoscience and Nanobiotechnology	
+5378235	Organic Chemistry	
+5378235	Physical Chemistry	
+5378235	Polymer Chemistry	
+5378254	Analytical Chemistry	
+5378266	General Chemistry	
+5378280	Chemical Physics	
+5378280	Physical Chemistry	
+5378501	Chemical Physics	
+5378501	Physical Chemistry	
+5378565	Analytical Chemistry	
+5378565	Chemical Biology	
+5378565	Chemical Physics	
+5378565	Inorganic and Organometallic Chemistry	
+5378565	Nanoscience and Nanobiotechnology	
+5378565	Organic Chemistry	
+5378565	Physical Chemistry	
+5378565	Polymer Chemistry	
+5378636	Chemical Physics	
+5378636	Physical Chemistry	
+5378799	Mathematical Physics	
+5378923	General Relativity	
+5378923	General Relativity	
+5378965	Chemical Physics	
+5378965	Nanoscience and Nanobiotechnology	
+5378965	Optical Physics, Quantum Electronics, Photonics	
+5378965	Physical Chemistry	
+5378999	Chemical Biology	
+5378999	Nanoscience and Nanobiotechnology	
+5378999	Polymer Chemistry	
+5379000	Polymer Chemistry	
+5379002	Polymer Chemistry	
+5379003	Polymer Chemistry	
+5379004	Polymer Chemistry	
+5379005	Polymer Chemistry	
+5379016	Analytical Chemistry	
+5379016	Chemical Physics	
+5379016	Physical Chemistry	
+5379017	Analytical Chemistry	
+5379017	Chemical Biology	
+5379199	Analytical Chemistry	
+5379199	Chemical Physics	
+5379199	Physical Chemistry	
+5379219	Nanoscience and Nanobiotechnology	
+5379223	Nanoscience and Nanobiotechnology	
+5379224	Nanoscience and Nanobiotechnology	
+5379249	Mathematical Physics	
+5379286	General Physics	
+5379338	General Physics	
+5379738	Chemical Biology	
+5379741	Chemical Physics	
+5379741	Physical Chemistry	
+5379793	Cosmology	
+5379793	General Astronomy	
+5379793	General Relativity	
+5379793	Infrared, Optical, and Radio Astronomy	
+5379793	Planetary Science	
+5379842	Mathematical Physics	
+5379920	Nanoscience and Nanobiotechnology	
+5379921	Nanoscience and Nanobiotechnology	
+5380016	Chemical Biology	
+5380016	Organic Chemistry	
+5380039	Biological Physics	
+5380039	Chemical Biology	
+5380041	General Chemistry	
+5380158	Astrophysics	
+5380158	General Astronomy	
+5380223	General Chemistry	
+5380224	Biological Physics	
+5380224	Chemical Physics	
+5380224	Condensed Matter and Solid State	
+5380224	General Physics	
+5380224	Mathematical Physics	
+5380224	Nanoscience and Nanobiotechnology	
+5380224	Optical Physics, Quantum Electronics, Photonics	
+5380224	Particle Physics	
+5380224	Physical Chemistry	
+5380394	Chemical Biology	
+5380499	Particle Physics	
+5380503	Particle Physics	
+5380504	Particle Physics	
+5380509	Particle Physics	
+5380778	Optical Physics, Quantum Electronics, Photonics	
+5380780	Optical Physics, Quantum Electronics, Photonics	
+5380804	Chemical Biology	
+5380804	Organic Chemistry	
+5380806	Organic Chemistry	
+5380807	Organic Chemistry	
+5380817	Inorganic and Organometallic Chemistry	
+5380817	Organic Chemistry	
+5381140	Analytical Chemistry	
+5381190	Condensed Matter and Solid State	
+5381193	Condensed Matter and Solid State	
+5381201	General Physics	
+5381228	Biological Physics	
+5381228	Chemical Biology	
+5381228	Chemical Physics	
+5381228	Physical Chemistry	
+5381229	Biological Physics	
+5381229	Chemical Biology	
+5381229	Chemical Physics	
+5381229	Physical Chemistry	
+5381242	Mathematical Physics	
+5381244	Condensed Matter and Solid State	
+5381246	Mathematical Physics	
+5381247	Condensed Matter and Solid State	
+5381247	Nanoscience and Nanobiotechnology	
+5381252	Chemical Physics	
+5381252	Physical Chemistry	
+5381255	Chemical Physics	
+5381255	Optical Physics, Quantum Electronics, Photonics	
+5381255	Physical Chemistry	
+5381257	Condensed Matter and Solid State	
+5381260	Particle Physics	
+5381262	Mathematical Physics	
+5381265	Biological Physics	
+5381265	Chemical Physics	
+5381265	Condensed Matter and Solid State	
+5381265	General Physics	
+5381265	Mathematical Physics	
+5381265	Nanoscience and Nanobiotechnology	
+5381265	Optical Physics, Quantum Electronics, Photonics	
+5381265	Particle Physics	
+5381265	Physical Chemistry	
+5381279	Planetary Science	
+5381280	General Physics	
+5381281	Biological Physics	
+5381283	Biological Physics	
+5381283	Condensed Matter and Solid State	
+5381283	General Physics	
+5381283	Nanoscience and Nanobiotechnology	
+5381284	Biological Physics	
+5381284	Chemical Physics	
+5381284	Mathematical Physics	
+5381284	Nanoscience and Nanobiotechnology	
+5381284	Optical Physics, Quantum Electronics, Photonics	
+5381284	Particle Physics	
+5381284	Physical Chemistry	
+5381291	Biological Physics	
+5381291	Chemical Physics	
+5381291	Condensed Matter and Solid State	
+5381291	General Physics	
+5381291	Mathematical Physics	
+5381291	Nanoscience and Nanobiotechnology	
+5381291	Optical Physics, Quantum Electronics, Photonics	
+5381291	Particle Physics	
+5381291	Physical Chemistry	
+5381293	General Physics	
+5381294	General Physics	
+5381366	Astrophysics	
+5381366	Particle Physics	
+5381447	Chemical Physics	
+5381447	Inorganic and Organometallic Chemistry	
+5381447	Physical Chemistry	
+5381448	Polymer Chemistry	
+5381449	Polymer Chemistry	
+5381549	General Physics	
+5381861	General Astronomy	
+5381861	General Chemistry	
+5381861	General Physics	
+5381899	General Astronomy	
+5381899	General Chemistry	
+5381899	General Physics	
+5381934	Biological Physics	
+5381934	Chemical Biology	
+5381945	Analytical Chemistry	
+5381945	Chemical Physics	
+5381945	Physical Chemistry	
+5381953	Polymer Chemistry	
+5381957	Condensed Matter and Solid State	
+5381957	Inorganic and Organometallic Chemistry	
+5381959	Chemical Physics	
+5381959	Condensed Matter and Solid State	
+5381959	Physical Chemistry	
+5381993	Chemical Biology	
+5381995	Chemical Biology	
+5381996	Chemical Biology	
+5381997	Biological Physics	
+5381997	Chemical Biology	
+5382113	General Astronomy	
+5382140	Chemical Biology	
+5382140	Chemical Physics	
+5382140	Physical Chemistry	
+5382197	Biological Physics	
+5382207	General Chemistry	
+5382249	Analytical Chemistry	
+5382249	Chemical Physics	
+5382249	Physical Chemistry	
+5382409	Biological Physics	
+5382409	Chemical Physics	
+5382409	Condensed Matter and Solid State	
+5382409	General Physics	
+5382409	Mathematical Physics	
+5382409	Nanoscience and Nanobiotechnology	
+5382409	Optical Physics, Quantum Electronics, Photonics	
+5382409	Particle Physics	
+5382409	Physical Chemistry	
+5382533	Analytical Chemistry	
+5382533	Biological Physics	
+5382533	Chemical Physics	
+5382533	Condensed Matter and Solid State	
+5382533	Nanoscience and Nanobiotechnology	
+5382533	Optical Physics, Quantum Electronics, Photonics	
+5382533	Particle Physics	
+5382533	Physical Chemistry	
+5382545	Astrophysics	
+5382545	Planetary Science	
+5382546	Biological Physics	
+5382546	Chemical Physics	
+5382546	Condensed Matter and Solid State	
+5382546	General Physics	
+5382546	Mathematical Physics	
+5382546	Nanoscience and Nanobiotechnology	
+5382546	Optical Physics, Quantum Electronics, Photonics	
+5382546	Particle Physics	
+5382546	Physical Chemistry	
+5382696	General Chemistry	
+5382701	General Chemistry	
+5382702	Chemical Biology	
+5382703	Inorganic and Organometallic Chemistry	
+5382706	Chemical Physics	
+5382706	Physical Chemistry	
+5382707	General Chemistry	
+5382712	Organic Chemistry	
+5382718	General Physics	
+5382876	General Astronomy	
+5382876	General Chemistry	
+5382876	General Physics	
+5382934	Planetary Science	
+5382979	Chemical Physics	
+5382979	Condensed Matter and Solid State	
+5382979	Inorganic and Organometallic Chemistry	
+5382979	Physical Chemistry	
+5382980	Chemical Physics	
+5382980	Condensed Matter and Solid State	
+5382980	Inorganic and Organometallic Chemistry	
+5382980	Physical Chemistry	
+5383253	Astrophysics	
+5383253	General Astronomy	
+5383254	General Astronomy	
+5383258	Condensed Matter and Solid State	
+5383260	Chemical Physics	
+5383260	Condensed Matter and Solid State	
+5383260	Physical Chemistry	
+5383261	Chemical Physics	
+5383261	Condensed Matter and Solid State	
+5383261	Inorganic and Organometallic Chemistry	
+5383261	Physical Chemistry	
+5383353	General Astronomy	
+5383370	Analytical Chemistry	
+5383370	Chemical Physics	
+5383370	Physical Chemistry	
+5383372	Analytical Chemistry	
+5383372	Chemical Physics	
+5383372	Physical Chemistry	
+5383516	Chemical Physics	
+5383516	Physical Chemistry	
+5383523	Biological Physics	
+5383523	Chemical Biology	
+5383615	Condensed Matter and Solid State	
+5383615	Nanoscience and Nanobiotechnology	
+5383638	Chemical Physics	
+5383638	Condensed Matter and Solid State	
+5383638	Physical Chemistry	
+5383640	Chemical Physics	
+5383640	Condensed Matter and Solid State	
+5383640	Physical Chemistry	
+5383672	Organic Chemistry	
+5383675	Organic Chemistry	
+5383676	Condensed Matter and Solid State	
+5383676	Nanoscience and Nanobiotechnology	
+5383676	Polymer Chemistry	
+5383705	Analytical Chemistry	
+5383865	Organic Chemistry	
+5383866	Chemical Physics	
+5383866	Inorganic and Organometallic Chemistry	
+5383866	Organic Chemistry	
+5383866	Physical Chemistry	
+5383867	Organic Chemistry	
+5383915	Chemical Physics	
+5383915	Physical Chemistry	
+5383916	Mathematical Physics	
+5383919	Chemical Physics	
+5383919	Physical Chemistry	
+5383947	Condensed Matter and Solid State	
+5383947	Nanoscience and Nanobiotechnology	
+5384019	Chemical Physics	
+5384019	Physical Chemistry	
+5384049	Analytical Chemistry	
+5384110	Inorganic and Organometallic Chemistry	
+5384251	Analytical Chemistry	
+5384251	Optical Physics, Quantum Electronics, Photonics	
+5384382	General Physics	
+5384977	Inorganic and Organometallic Chemistry	
+5421595	General Physics	
+5429657	General Chemistry	
+5429659	General Physics	
+5477578	Particle Physics	
+5477586	Astrophysics	
+5477586	Planetary Science	
+5477632	Astrophysics	
+5477632	Planetary Science	
+5477650	Cosmology	
+5477650	General Astronomy	
+5477650	General Physics	
+5477667	General Astronomy	
+5477687	Chemical Biology	
+5477713	General Chemistry	
+5477734	General Physics	
+5477849	Condensed Matter and Solid State	
+5478134	Astrophysics	
+5478134	General Astronomy	
+5478148	Chemical Physics	
+5478148	General Chemistry	
+5478148	Physical Chemistry	
+5478149	Chemical Physics	
+5478149	Physical Chemistry	
+5478258	General Chemistry	
+5478281	Analytical Chemistry	
+5478281	Optical Physics, Quantum Electronics, Photonics	
+5478282	General Chemistry	
+5478327	Analytical Chemistry	
+5478456	General Chemistry	
+5478456	General Physics	
+5478633	General Physics	
+5489859	Chemical Biology	
+5513533	Nanoscience and Nanobiotechnology	
+5513715	Nanoscience and Nanobiotechnology	
+5519621	General Astronomy	
+5519621	Infrared, Optical, and Radio Astronomy	
+5548470	Cosmology	
+5548470	General Astronomy	
+5548470	General Relativity	
+5548470	Particle Physics	
+5548488	General Physics	
+5615311	General Chemistry	
+5615315	General Physics	
+5648806	Inorganic and Organometallic Chemistry	
+5648888	General Physics	
+5669700	General Chemistry	
+5669707	Chemical Physics	
+5669707	Physical Chemistry	
+5686211	Organic Chemistry	
+5686356	Chemical Biology	
+5686467	Chemical Physics	
+5686467	Physical Chemistry	
+5702603	General Chemistry	
+5702853	General Chemistry	
+5707406	Chemical Physics	
+5707406	Physical Chemistry	
+5714960	Mathematical Physics	
+5714960	Particle Physics	
+5715276	Mathematical Physics	
+5725960	Chemical Biology	
+5725960	Inorganic and Organometallic Chemistry	
+5725960	Organic Chemistry	
+5726027	General Chemistry	
+5726292	Polymer Chemistry	
+5726318	General Chemistry	
+5731187	Nanoscience and Nanobiotechnology	
+5756408	General Physics	
+5756408	Optical Physics, Quantum Electronics, Photonics	
+5777293	General Physics	
+5777370	Chemical Physics	
+5777370	Nanoscience and Nanobiotechnology	
+5777370	Physical Chemistry	
+5777370	Polymer Chemistry	
+5777434	General Physics	
+5777448	General Chemistry	
+5777450	Nanoscience and Nanobiotechnology	
+5777450	Optical Physics, Quantum Electronics, Photonics	
+5777481	Biological Physics	
+5777481	Chemical Physics	
+5777481	Condensed Matter and Solid State	
+5777481	General Physics	
+5777481	Mathematical Physics	
+5777481	Nanoscience and Nanobiotechnology	
+5777481	Optical Physics, Quantum Electronics, Photonics	
+5777481	Particle Physics	
+5777481	Physical Chemistry	
+5777495	General Physics	
+5777496	General Physics	
+5777500	Nanoscience and Nanobiotechnology	
+5790498	Particle Physics	
+5794800	Nanoscience and Nanobiotechnology	
+5813995	Nanoscience and Nanobiotechnology	
+5814008	General Physics	
+5814111	General Physics	
+5825784	General Physics	
+5826664	General Chemistry	
+5826869	General Astronomy	
+5827214	Biological Physics	
+5827214	Chemical Physics	
+5827214	Condensed Matter and Solid State	
+5827214	General Physics	
+5827214	Mathematical Physics	
+5827214	Nanoscience and Nanobiotechnology	
+5827214	Optical Physics, Quantum Electronics, Photonics	
+5827214	Particle Physics	
+5827214	Physical Chemistry	
+5827443	General Chemistry	
+5827507	Astrophysics	
+5827507	Cosmology	
+5827507	Mathematical Physics	
+5832411	General Chemistry	
+5841820	Chemical Physics	
+5841820	Optical Physics, Quantum Electronics, Photonics	
+5841820	Physical Chemistry	
+5841825	General Chemistry	
+5841891	Biological Physics	
+5841891	Chemical Physics	
+5841891	Condensed Matter and Solid State	
+5841891	Mathematical Physics	
+5841891	Nanoscience and Nanobiotechnology	
+5841891	Optical Physics, Quantum Electronics, Photonics	
+5841891	Particle Physics	
+5841891	Physical Chemistry	
+5841891	Polymer Chemistry	
+5856631	Chemical Biology	
+5856787	Condensed Matter and Solid State	
+5908708	Chemical Physics	
+5908708	Condensed Matter and Solid State	
+5908708	General Physics	
+5908708	General Physics	
+5908708	Particle Physics	
+5908708	Physical Chemistry	
+5908709	Astrophysics	
+5908709	Astrophysics	
+5908709	General Physics	
+5908709	General Physics	
+5908709	Particle Physics	
+5908709	Particle Physics	
+5908759	Organic Chemistry	
+5908770	Particle Physics	
+5918692	Condensed Matter and Solid State	
+5918692	Nanoscience and Nanobiotechnology	
+5918701	Condensed Matter and Solid State	
+5924430	Nanoscience and Nanobiotechnology	
+5928940	Chemical Biology	
+5964721	Astrophysics	
+5964721	Astrophysics	
+5964721	Cosmology	
+5964721	General Astronomy	
+5964721	Particle Physics	
+5964744	Chemical Biology	
+5964851	Astrophysics	
+5964851	Cosmology	
+5964851	Cosmology	
+5964851	General Relativity	
+5964901	Nanoscience and Nanobiotechnology	
+5964917	Particle Physics	
+5964918	Particle Physics	
+5964929	General Physics	
+5964931	Astrophysics	
+5964931	Planetary Science	
+5964933	Astrophysics	
+5964933	Particle Physics	
+5964935	Polymer Chemistry	
+5984877	Analytical Chemistry	
+5984891	General Chemistry	
+5985176	Chemical Physics	
+5985176	Nanoscience and Nanobiotechnology	
+5985176	Physical Chemistry	
+5985263	General Astronomy	
+6009596	Mathematical Physics	
+6009714	Inorganic and Organometallic Chemistry	
+6027285	General Physics	
+6029058	Optical Physics, Quantum Electronics, Photonics	
+6041804	Chemical Physics	
+6041804	Physical Chemistry	
+6041809	Mathematical Physics	
+6041874	General Astronomy	
+6041874	Planetary Science	
+6041889	Chemical Biology	
+6041930	Astrophysics	
+6051569	Chemical Physics	
+6051569	General Chemistry	
+6051569	Physical Chemistry	
+6051615	Chemical Biology	
+6051615	Organic Chemistry	
+6070890	Astrophysics	
+6070916	General Chemistry	
+6070940	Chemical Physics	
+6070940	Condensed Matter and Solid State	
+6070940	General Physics	
+6070940	Mathematical Physics	
+6070940	Nanoscience and Nanobiotechnology	
+6070940	Optical Physics, Quantum Electronics, Photonics	
+6070940	Particle Physics	
+6070940	Physical Chemistry	
+6070970	Nanoscience and Nanobiotechnology	
+6071028	Nanoscience and Nanobiotechnology	
+6071053	General Chemistry	
+6105619	Chemical Biology	
+6105619	Organic Chemistry	
+6105629	Organic Chemistry	
+6105631	Inorganic and Organometallic Chemistry	
+6105637	Inorganic and Organometallic Chemistry	
+6105640	Chemical Physics	
+6105640	Organic Chemistry	
+6105640	Physical Chemistry	
+6105641	Nanoscience and Nanobiotechnology	
+6105644	Chemical Physics	
+6105644	Physical Chemistry	
+6105649	Chemical Biology	
+6105649	Organic Chemistry	
+6105715	Biological Physics	
+6105805	Nanoscience and Nanobiotechnology	
+6105814	Chemical Biology	
+6105833	Chemical Biology	
+6105835	Chemical Biology	
+6140575	Chemical Biology	
+6140576	Nanoscience and Nanobiotechnology	
+6140625	Chemical Biology	
+6140625	General Chemistry	
+6181508	General Chemistry	
+6217128	Analytical Chemistry	
+6217132	Organic Chemistry	
+6217214	Nanoscience and Nanobiotechnology	
+6217234	Nanoscience and Nanobiotechnology	
+6217234	Nanoscience and Nanobiotechnology	
+6217234	Particle Physics	
+6217278	Condensed Matter and Solid State	
+6217278	Nanoscience and Nanobiotechnology	
+6235558	Planetary Science	
+6235574	Planetary Science	
+6280024	Astrophysics	
+6282325	General Chemistry	
+6291124	Cosmology	
+6291124	Cosmology	
+6291124	General Relativity	
+6291124	Infrared, Optical, and Radio Astronomy	
+6291124	Particle Physics	
+6291124	Planetary Science	
+6311146	Condensed Matter and Solid State	
+6334557	Analytical Chemistry	
+6335418	Polymer Chemistry	
+6335419	Condensed Matter and Solid State	
+6335542	Chemical Physics	
+6335542	Inorganic and Organometallic Chemistry	
+6335542	Physical Chemistry	
+6335545	General Chemistry	
+6373601	Mathematical Physics	
+6373601	Particle Physics	
+6373666	Organic Chemistry	
+6373801	Nanoscience and Nanobiotechnology	
+6373830	Mathematical Physics	
+6373883	General Chemistry	
+6396690	Astrophysics	
+6396690	Chemical Physics	
+6396690	Cosmology	
+6396690	Mathematical Physics	
+6396690	Physical Chemistry	
+6398566	General Chemistry	
+6400230	Nanoscience and Nanobiotechnology	
+6400299	Chemical Physics	
+6400299	Physical Chemistry	
+6400300	Chemical Physics	
+6400300	Physical Chemistry	
+6407961	Chemical Physics	
+6407961	Condensed Matter and Solid State	
+6407961	Nanoscience and Nanobiotechnology	
+6407961	Physical Chemistry	
+6408019	Analytical Chemistry	
+6408019	Chemical Biology	
+6408019	Chemical Physics	
+6408019	Physical Chemistry	
+6408040	Chemical Physics	
+6408040	Physical Chemistry	
+6408048	General Chemistry	
+6408049	Astrophysics	
+6408049	General Physics	
+6408051	Chemical Biology	
+6408051	Chemical Physics	
+6408051	Physical Chemistry	
+6408069	Biological Physics	
+6408069	General Physics	
+6408069	Nanoscience and Nanobiotechnology	
+6408069	Optical Physics, Quantum Electronics, Photonics	
+6408228	Inorganic and Organometallic Chemistry	
+6408274	Analytical Chemistry	
+6408283	Chemical Physics	
+6408283	Physical Chemistry	
+6408317	Chemical Physics	
+6408317	Physical Chemistry	
+6408318	Chemical Physics	
+6408318	Physical Chemistry	
+6408319	Chemical Physics	
+6408319	Physical Chemistry	
+6408330	Chemical Biology	
+6408331	Analytical Chemistry	
+6408331	Chemical Physics	
+6408331	Physical Chemistry	
+6408336	Astrophysics	
+6408336	Optical Physics, Quantum Electronics, Photonics	
+6408336	Planetary Science	
+6408411	Nanoscience and Nanobiotechnology	
+6408418	Astrophysics	
+6408418	General Astronomy	
+6408436	Analytical Chemistry	
+6408457	Chemical Physics	
+6408457	Physical Chemistry	
+6408495	Nanoscience and Nanobiotechnology	
+6408519	General Chemistry	
+6408519	General Physics	
+6408530	Particle Physics	
+6408604	Chemical Physics	
+6408604	Condensed Matter and Solid State	
+6408604	Inorganic and Organometallic Chemistry	
+6408604	Physical Chemistry	
+6408630	Analytical Chemistry	
+6408630	Chemical Physics	
+6408630	Physical Chemistry	
+6408649	Analytical Chemistry	
+6451121	Optical Physics, Quantum Electronics, Photonics	
+6451343	Particle Physics	
+6451494	Analytical Chemistry	
+6513646	Biological Physics	
+6513646	Chemical Biology	
+6513784	Analytical Chemistry	
+6514158	General Chemistry	
+6514894	Nanoscience and Nanobiotechnology	
+6570178	Chemical Physics	
+6570178	Physical Chemistry	
+6570196	Inorganic and Organometallic Chemistry	
+6578635	General Chemistry	
+6586840	General Chemistry	
+6587228	Nanoscience and Nanobiotechnology	
+6656571	Astrophysics	
+6671193	Chemical Biology	
+6688733	Chemical Physics	
+6688733	Physical Chemistry	
+6704123	Analytical Chemistry	
+6704123	Nanoscience and Nanobiotechnology	
+6704152	Chemical Physics	
+6704152	Physical Chemistry	
+6751103	General Physics	
+6797072	Condensed Matter and Solid State	
+6797072	Particle Physics	
+6797072	Polymer Chemistry	
+6797169	General Chemistry	
+6797169	General Physics	
+6797169	Mathematical Physics	
+6797184	Nanoscience and Nanobiotechnology	
+6797292	Nanoscience and Nanobiotechnology	
+6797351	Analytical Chemistry	
+6821171	Planetary Science	
+6821386	Analytical Chemistry	
+6821580	Mathematical Physics	
+6821587	Astrophysics	
+6821672	Infrared, Optical, and Radio Astronomy	
+6821672	Infrared, Optical, and Radio Astronomy	
+6821672	Optical Physics, Quantum Electronics, Photonics	
+6821727	Chemical Physics	
+6821727	Physical Chemistry	
+6835008	Analytical Chemistry	
+6835233	Optical Physics, Quantum Electronics, Photonics	
+6835558	Chemical Biology	
+6835558	Organic Chemistry	
+6835672	Chemical Physics	
+6835672	Physical Chemistry	
+6878128	General Physics	
+6878153	Polymer Chemistry	
+6897568	Nanoscience and Nanobiotechnology	
+6897757	Nanoscience and Nanobiotechnology	
+6936942	General Physics	
+6936947	General Chemistry	
+6954530	General Chemistry	
+6955009	General Physics	
+6955464	Nanoscience and Nanobiotechnology	
+6984448	Analytical Chemistry	
+6984448	Chemical Biology	
+6984448	Chemical Physics	
+6984448	General Chemistry	
+6984448	Inorganic and Organometallic Chemistry	
+6984448	Nanoscience and Nanobiotechnology	
+6984448	Organic Chemistry	
+6984448	Physical Chemistry	
+6984448	Polymer Chemistry	
+6984540	Nanoscience and Nanobiotechnology	
+6984599	Planetary Science	
+6984615	General Astronomy	
+6985823	Analytical Chemistry	
+6985823	Chemical Physics	
+6985823	Inorganic and Organometallic Chemistry	
+6985823	Physical Chemistry	
+7017072	Planetary Science	
+7054720	Inorganic and Organometallic Chemistry	
+7071147	Mathematical Physics	
+7072445	General Chemistry	
+7072450	General Astronomy	
+7073100	Nanoscience and Nanobiotechnology	
+7073123	Nanoscience and Nanobiotechnology	
+7132704	Nanoscience and Nanobiotechnology	
+7178141	Nanoscience and Nanobiotechnology	
+7178475	Mathematical Physics	
+7204093	Mathematical Physics	
+7259120	Chemical Physics	
+7259120	Physical Chemistry	
+7438686	Analytical Chemistry	
