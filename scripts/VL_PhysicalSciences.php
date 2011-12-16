@@ -30,7 +30,7 @@ class VL_PhysicalSciences extends VirtualLibrary {
 		$this->library_search_url = "http://cullrdev.library.cornell.edu:8901/solr/select?";
 		$this->destination_path = '/cullr/instances/physicalsciences/solr_add/bibids/';
 		$this->source_path = '/cullr/instances/physicalsciences/cullr_physicalsciences/lists/';
-		$this->bibid_source_file = 'PSL_Ejournals_111115_cullr.txt';
+		$this->bibid_source_file = 'psl-bibids-discipline.txt';
 		$this->callno_source_file = 'psl-callno-discipline.txt';
 		$this->package_source_file = 'PSL_Ebkpkg_111122_cullr.txt';
 					
