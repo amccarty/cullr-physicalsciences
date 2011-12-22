@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pushd /cullr/instances/engineering/solr_add/
+pushd /cullr/instances/physicalsciences/solr_add/
 
 for bib in bibids/*.xml
 do
