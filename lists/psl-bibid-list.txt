@@ -306,7 +306,7 @@ bibid	taxonomy	sub-resource type
 4832118	General Astronomy
 5381252	Chemical Physics;Physical Chemistry
 5381255	Chemical Physics;Optical Physics, Quantum Electronics, Photonics;Physical Chemistry
-5381257	Condensed Matter and Solid State
+5381258	Condensed Matter and Solid State
 6070890	Astrophysics
 6821727	Chemical Physics;Physical Chemistry
 5548488	General Physics
