@@ -25,9 +25,10 @@ class VL_PhysicalSciences extends VirtualLibrary {
 			'cullr_vli_internal_note' => 'Internal Note',
 			);
 			
-		/* engineering library */
+		/* physical sciences library */
 		$this->library_name = 'physicalsciences';
-		$this->library_search_url = "http://raksha02.library.cornell.edu:8901/solr/select?";
+		$this->library_search_url_production = "http://raksha02.library.cornell.edu:8901/solr/select?";
+		$this->library_search_url_test = "http://raksha01.library.cornell.edu:8901/solr/select?";
 		$this->destination_path = '/cullr/instances/physicalsciences/solr_add/bibids/';
 		$this->source_path = '/cullr/instances/physicalsciences/cullr_physicalsciences/lists/';
 		$this->bibid_source_file = 'psl-bibid-list.txt';
