@@ -645,6 +645,7 @@ bibid	taxonomy	sub-resource type
 5371519	General Physics
 5369527	Inorganic and Organometallic Chemistry
 5378636	Chemical Physics;Physical Chemistry
+7594790	General Physics
 2476849		Database
 2661413		Database
 2787682		Database
