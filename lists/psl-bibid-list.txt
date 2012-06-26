@@ -78,7 +78,7 @@ bibid	taxonomy	sub-resource type
 5964931	Astrophysics;Planetary Science
 5648888	General Physics
 5370068	General Chemistry
-5035092	Biological Physics;Chemical Biology
+7575887	Biological Physics;Chemical Biology
 6408436	Analytical Chemistry
 5615311	General Chemistry
 5615315	General Physics
@@ -254,13 +254,13 @@ bibid	taxonomy	sub-resource type
 5714960	Mathematical Physics;Particle Physics
 7071147	Mathematical Physics
 4732150	Mathematical Physics;Particle Physics
-5369983	Astrophysics
+7594861	Astrophysics
 5369982	Astrophysics;Cosmology;General Relativity
 5374671	General Relativity;General Relativity;Particle Physics
 5369980	Astrophysics;Cosmology;General Astronomy;General Relativity
 5369986	Astrophysics
 6009596	Mathematical Physics
-5369984	Astrophysics
+7594843	Astrophysics
 6105715	Biological Physics
 5478633	General Physics
 5383675	Organic Chemistry
