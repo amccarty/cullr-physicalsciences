@@ -52,7 +52,6 @@ bibid	taxonomy	sub-resource type
 6408274	Analytical Chemistry
 5377834	Nanoscience and Nanobiotechnology
 5371767	Chemical Physics;Physical Chemistry;Polymer Chemistry
-3811849	Particle Physics
 5382545	Astrophysics;Planetary Science
 5382546	Biological Physics;Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical Chemistry
 6514158	General Chemistry
@@ -159,7 +158,6 @@ bibid	taxonomy	sub-resource type
 6280024	Astrophysics
 5368795	Analytical Chemistry;Chemical Biology;Chemical Physics;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical Chemistry;Polymer Chemistry
 6408530	Particle Physics
-1812147	General Physics
 5369533	Cosmology;General Astronomy;General Relativity
 5369530	Chemical Physics;Physical Chemistry
 6311146	Condensed Matter and Solid State
@@ -248,7 +246,6 @@ bibid	taxonomy	sub-resource type
 7017072	Planetary Science
 5477713	General Chemistry
 5964929	General Physics
-4885966	Particle Physics
 5477578	Particle Physics
 6408069	Biological Physics;General Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics
 5714960	Mathematical Physics;Particle Physics
