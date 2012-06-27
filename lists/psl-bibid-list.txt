@@ -106,7 +106,7 @@ bibid	taxonomy	sub-resource type
 5489859	Chemical Biology
 5370404	Biological Physics;Chemical Biology
 5370406	Biological Physics;Chemical Biology
-5370407	Biological Physics;Chemical Biology
+6273513	Biological Physics;Chemical Biology
 5370408	Biological Physics;Chemical Biology;General Chemistry
 5715276	Mathematical Physics
 5371569	Analytical Chemistry
@@ -272,8 +272,7 @@ bibid	taxonomy	sub-resource type
 5918701	Condensed Matter and Solid State
 5369978	General Astronomy
 5369979	Astrophysics;General Astronomy
-5375222	General Astronomy;General Chemistry;General Physics
-6105814	Chemical Biology
+6259536	General Astronomy;General Chemistry;General Physics
 6335545	General Chemistry
 5384049	Analytical Chemistry
 5372680	Chemical Biology
@@ -377,7 +376,7 @@ bibid	taxonomy	sub-resource type
 5383254	General Astronomy
 6408457	Chemical Physics;Physical Chemistry
 5384019	Chemical Physics;Physical Chemistry
-5382140	Chemical Biology;Chemical Physics;Physical Chemistry
+6897731	Chemical Biology;Chemical Physics;Physical Chemistry
 5383919	Chemical Physics;Physical Chemistry
 5377717	Mathematical Physics
 6984599	Planetary Science
@@ -495,7 +494,7 @@ bibid	taxonomy	sub-resource type
 5373955	Chemical Biology
 5372015	Chemical Physics;Mathematical Physics;Physical Chemistry
 5377981	Astrophysics;Mathematical Physics;Particle Physics
-6704123	Analytical Chemistry;Nanoscience and Nanobiotechnology
+5377222	Analytical Chemistry;Nanoscience and Nanobiotechnology
 6071053	General Chemistry
 5686211	Organic Chemistry
 5384977	Inorganic and Organometallic Chemistry
@@ -565,7 +564,7 @@ bibid	taxonomy	sub-resource type
 5726318	General Chemistry
 5827214	Biological Physics;Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical Chemistry
 5371950	Chemical Biology
-5119073	Biological Physics;Chemical Biology
+6236013	Biological Physics;Chemical Biology
 5382696	General Chemistry
 6105835	Chemical Biology
 5370412	Biological Physics;Chemical Biology
@@ -609,7 +608,7 @@ bibid	taxonomy	sub-resource type
 5377959	Chemical Physics;Condensed Matter and Solid State;Physical Chemistry
 6936947	General Chemistry
 5381279	Planetary Science
-5377778	Chemical Physics;Physical Chemistry
+7258622	Chemical Physics;Physical Chemistry
 6878128	General Physics
 6897568	Nanoscience and Nanobiotechnology
 5371286	Astrophysics
@@ -620,7 +619,8 @@ bibid	taxonomy	sub-resource type
 5726027	General Chemistry
 5377877	Organic Chemistry
 5429657	General Chemistry
-5429659	General Physics
+6259255	General Physics
+7259116	General Physics
 5377751	Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics
 5777434	General Physics
 5369451	General Physics
