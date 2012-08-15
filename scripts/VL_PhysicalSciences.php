@@ -3,7 +3,7 @@
  * VL_PhysicalSciences.php - PSL subclass of VirtualLibrary
  */
  
-include_once "/cullr/common/libphp/VirtualLibrary.php";
+include_once "/cullr/common/libphp/VirtualLibrary2.php";
 
 class VL_PhysicalSciences extends VirtualLibrary {
 	function __construct() {
@@ -41,6 +41,9 @@ class VL_PhysicalSciences extends VirtualLibrary {
 		$this->full_biblist_bibid_sources_file = 'full_biblist_sources.txt';
 		
 		$this->latest_update_file = 'psl-latest-update.txt';
+
+		$this->library_indexing_url_production = "http://raksha02.library.cornell.edu:8951/solr/select?";
+		$this->library_indexing_url_test = "http://raksha01.library.cornell.edu:8951/solr/select?";
 		}
 }
 
