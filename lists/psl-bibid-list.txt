@@ -703,3 +703,10 @@ bibid	taxonomy	sub-resource type
 7086184		Database
 7117039		Database
 7298136		Database
+7714730		Database
+7714754		Database
+5184844		Database
+7715016		Database
+7715537		Database
+7715969		Database
+7715979		Database
