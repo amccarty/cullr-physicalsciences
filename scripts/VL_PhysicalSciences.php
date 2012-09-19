@@ -25,6 +25,7 @@ class VL_PhysicalSciences extends VirtualLibrary {
 			'cullr_vli_internal_note' => 'Internal Note',
 			'cullr_vl_alt_title' => 'Curator Alternative Title',
 			'cullr_vl_alt_url' => 'Curator Alternative Resource URL',
+			'psl_journal_finder_i' => 'Include in Journal Finder',
 			);
 			
 		/* physical sciences library */
