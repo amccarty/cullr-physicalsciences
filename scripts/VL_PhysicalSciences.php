@@ -36,6 +36,7 @@ class VL_PhysicalSciences extends VirtualLibrary {
 		$this->bibid_source_file = 'psl-bibid-list.txt';
 		$this->callno_source_file = 'psl-call-number-list.txt';
 		$this->package_source_file = 'psl-package-list.txt';
+		$this->extra_parameters_file = 'psl-additional-values.txt';
 					
 		$this->full_biblist_bibids_file = 'full_biblist.txt';	
 		$this->full_biblist_bibid_sources_file = 'full_biblist_sources.txt';
