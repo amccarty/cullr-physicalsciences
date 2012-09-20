@@ -5,7 +5,7 @@
  
 include_once "/cullr/common/libphp/VirtualLibrary2.php";
 
-class VL_PhysicalSciences extends VirtualLibrary {
+class VL_PhysicalSciences extends VirtualLibrary2 {
 	function __construct() {
 		parent::__construct();
 
