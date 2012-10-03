@@ -25,6 +25,10 @@ class VL_PhysicalSciences extends VirtualLibrary2 {
 			'cullr_vli_internal_note' => 'Internal Note',
 			'cullr_vl_alt_title' => 'Curator Alternative Title',
 			'cullr_vl_alt_url' => 'Curator Alternative Resource URL',
+			);
+			
+		// initial value supplied by svn/spreadsheet file, not otherwise updated
+		$this->auxiliary_fields = array(
 			'psl_journal_finder_i' => 'Include in Journal Finder',
 			'psl_ebook_collection_i' => 'Include in eBook Collection',
 			'psl_specialized_database_i' => 'Include in Specialized Databases',
