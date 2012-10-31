@@ -776,7 +776,7 @@
  </similarity>
  -->
 
-	<copyField source="sort_title" dest="sort_title_ngram">
-	<copyField source="cullr_resource_author" dest="author_diacritic">
+	<copyField source="sort_title" dest="sort_title_ngram" />
+	<copyField source="cullr_resource_author" dest="author_diacritic" />
 
 </schema>
