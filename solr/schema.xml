@@ -451,6 +451,14 @@
 		 <filter class="solr.ASCIIFoldingFilterFactory" />
 	   </analyzer>
 	 </fieldType>
+	<fieldType name="text_ascii2" class="solr.TextField" positionIncrementGap="100" omitNorms="true">
+		<analyzer>
+			<tokenizer class="solr.StandardTokenizerFactory" />
+			<filter class="solr.LowerCaseFilterFactory" />
+			<filter class="solr.ASCIIFoldingFilterFactory" />
+			<filter class="solr.RemoveDuplicatesTokenFilterFactory" />
+		</analyzer>
+	</fieldType>
  
    <!-- field that can be used for left anchored search and auto complete - single string -->
    <fieldType name="ngram" class="solr.TextField" >
@@ -698,6 +706,7 @@
    
    <dynamicField name="*_diacritic" type="diacritic" indexed="true" stored="true" multiValued="true"/>
    <dynamicField name="*_ascii" type="text_ascii" indexed="true" stored="true" multiValued="true"/>
+   <dynamicField name="*_ascii2" type="text_ascii2" indexed="true" stored="true" multiValued="true"/>
    <dynamicField name="*_ngram" type="ngram" indexed="true" stored="false" multiValued="true"/>
    
  </fields>
@@ -782,5 +791,6 @@
 	<copyField source="sort_title" dest="sort_title_ngram" />
 	<copyField source="cullr_resource_author" dest="author_diacritic" />
 	<copyField source="cullr_resource_author" dest="author_ascii" />
+	<copyField source="cullr_resource_author" dest="author_ascii2" />
 
 </schema>
