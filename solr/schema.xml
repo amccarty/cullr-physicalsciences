@@ -690,7 +690,7 @@
         unknown fields indexed and/or stored by default --> 
    <!--dynamicField name="*" type="ignored" multiValued="true" /-->
    
-   <dynamicField name="*_diacritic" type="diacritic" indexed="true" stored="false" multiValued="true"/>
+   <dynamicField name="*_diacritic" type="diacritic" indexed="true" stored="true" multiValued="true"/>
    <dynamicField name="*_ngram" type="ngram" indexed="true" stored="false" multiValued="true"/>
    
  </fields>
