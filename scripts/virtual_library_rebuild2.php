@@ -5,6 +5,10 @@
  */
 include_once "VL_PhysicalSciences.php";
 
+iconv_set_encoding("input_encoding", "UTF-8");
+iconv_set_encoding("output_encoding", "UTF-8");
+iconv_set_encoding("internal_encoding", "UTF-8");
+
 $vl = new VL_PhysicalSciences();
 
 // look for the -production argument to rebuild the production version
