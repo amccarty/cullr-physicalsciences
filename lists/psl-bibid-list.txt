@@ -1,4 +1,3 @@
-bibid	taxonomy	sub-resource type
 7526137	General Physics;General Chemistry;General Astronomy	package
 6878519	General Chemistry	package
 7526126	Optical Physics, Quantum Electronics, Photonics;General Physics;General Astronomy	package
@@ -710,4 +709,3 @@ bibid	taxonomy	sub-resource type
 7715537		Database
 7715969		Database
 7715979		Database
-1125226		Test
