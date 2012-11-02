@@ -1328,3 +1328,4 @@
 5378636	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pubs.acs.org/loi/langd5
 7594790	cullr_resource_url_link_current	http://prx.aps.org/
 5369545	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.annualreviews.org/loi/energy
+1125226 cullr_resource_author ЖЙЛФЧЫлыћ joe dokes 
