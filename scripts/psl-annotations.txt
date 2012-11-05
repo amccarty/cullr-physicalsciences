@@ -1,0 +1,30 @@
+/**
+ * annotation text - backup for testing
+ */
+<arr name="cullr_vl_annotation">
+<str>
+SciFinder provides access to CAplus, a database of chemical literature and U.S. and foreign chemical-related patents, CASREACT, and the Registry database from Chemical Abstracts Service. Includes journal articles, book chapters, patents, conference proceedings, technical reports, substance database and dissertations covered in Chemical Abstracts as well as articles currently being indexed, book reviews and biographical information. Covers chemistry, biotechnology, agricultural chemistry, toxicology, environmental science, medicine, and food science, from 1907 to the present. Users may search more than 27 million citations by topic, author, CAS Registry Numbers, patent number, and CAS abstract number. More than 33 million chemical substances may be searched by chemical name, chemical structure, substructure, CAS Registry Numbers, and formula. <br /><br /> Register first at: <a href="http://resolver.library.cornell.edu/misc/6197957">http://resolver.library.cornell.edu/misc/6197957<;/a>
+</str>
+</arr>
+<str name="id">voyager.bibid.6197957</str>
+
+<arr name="cullr_vl_annotation">
+<str>testing annotation</str>
+</arr>
+<arr name="cullr_vl_annotation_author">
+<str>jgr25</str>
+</arr>
+<str name="id">voyager.bibid.5799613</str>
+
+<arr name="cullr_vl_annotation">
+<str>
+The ACS Symposium Series contains high-quality, peer-reviewed books developed from the ACS technical divisions' symposia. Each chapter is carefully authored by an expert in the field, and the collection of chapters edited by an internationally recognized leader in the field. The series covers a broad range of topics including agricultural and food chemistry, cellulose and renewable materials, chemical education, organic chemistry, polymer chemistry, materials, and many others.
+</str>
+</arr>
+<arr name="cullr_vl_annotation_author">
+<str>lrm1</str>
+</arr>
+<arr name="culweight">
+<str>general chemistry</str>
+</arr>
+<str name="id">voyager.bibid.6878519</str>
