@@ -1,6 +1,6 @@
 <?php
 /**
- * virtual_library_rebuild2.php - recreate psl virtual library
+ * export_curation.php - find curated records in a virtual library
  * (run from the command line)
  */
 include_once "VL_PhysicalSciences.php";
