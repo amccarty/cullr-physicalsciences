@@ -11,6 +11,11 @@ iconv_set_encoding("internal_encoding", "UTF-8");
 
 $vl = new VL_PhysicalSciences();
 
+// look for the -production argument to rebuild the production version
+if (isset($argv[1]) && ($argv[1] == 'production')) {
+	$vl->use_production_plop(TRUE);
+	}
+
 $vl->export_curation();
 
 ?>
