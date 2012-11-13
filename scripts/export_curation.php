@@ -21,7 +21,7 @@ if (isset($argv[1]) && ($argv[1] == 'production')) {
 $library = $vl->library_name;
 $timestamp = date('Y-m-d-His');
 $path = $vl->destination_path . "curation/";
-if (!mkdir($path)) {
+if (!is_dir($path) && !mkdir($path)) {
 	die("can't create directory for $path");
 	}
 $filename = $path . "$library-$version-$timestamp-curation.xml";
