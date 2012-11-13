@@ -12,10 +12,20 @@ iconv_set_encoding("internal_encoding", "UTF-8");
 $vl = new VL_PhysicalSciences();
 
 // look for the -production argument to rebuild the production version
+$version = 'test';
 if (isset($argv[1]) && ($argv[1] == 'production')) {
 	$vl->use_production_plop(TRUE);
+	$version = 'production';
 	}
 
-$vl->export_curation();
+$library = $vl->library_name;
+$timestamp = date('Y-m-d-His');
+$path = $vl->destination_path;
+$filename = $path . "curation/$library-$version-$timestamp-curation.xml";
+if (!mkdir($filename)) {
+	die("can't create directory for $filename");
+	}
+
+$vl->export_curation($filename);
 
 ?>
