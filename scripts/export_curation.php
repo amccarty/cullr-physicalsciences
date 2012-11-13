@@ -20,11 +20,11 @@ if (isset($argv[1]) && ($argv[1] == 'production')) {
 
 $library = $vl->library_name;
 $timestamp = date('Y-m-d-His');
-$path = $vl->destination_path;
-$filename = $path . "curation/$library-$version-$timestamp-curation.xml";
-if (!mkdir($filename)) {
-	die("can't create directory for $filename");
+$path = $vl->destination_path . "curation/";
+if (!mkdir($path)) {
+	die("can't create directory for $path");
 	}
+$filename = $path . "$library-$version-$timestamp-curation.xml";
 
 $vl->export_curation($filename);
 
