@@ -34,6 +34,21 @@ class VL_PhysicalSciences extends VirtualLibrary2 {
 			'psl_specialized_database_i' => 'Include in Specialized Databases',
 			);
 			
+		// these are actually edited by curators - need to be preserved - see export_curation
+		$this->curation_fields = array(
+			'cullr_vl_annotation_author' => 'Annotation Author',
+			'cullr_vl_annotation' => 'Annotation',
+			'cullr_vl_keywords' => 'Free Text Keywords',
+			'cullr_vl_latest_update' => 'Latest Update',
+			'cullr_vl_suppress' => 'Suppress Record',
+			'cullr_featured_resource_b' => 'Featured Resource',
+			'cullr_vli_internal_note_author' => 'Internal Note Author',
+			'cullr_vli_internal_note_date' => 'Internal Note Date',
+			'cullr_vli_internal_note' => 'Internal Note',
+			'cullr_vl_alt_title' => 'Curator Alternative Title',
+			'cullr_vl_alt_url' => 'Curator Alternative Resource URL',
+			);
+			
 		/* physical sciences library */
 		$this->library_name = 'physicalsciences';
 		$this->library_search_url_production = "http://raksha02.library.cornell.edu:8901/solr/select?";
