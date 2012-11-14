@@ -30,4 +30,7 @@ else {
 
 $curation = $vl->load_curation($input_filename);
 var_dump($curation);
+if ($vl->check_curation($curation)) {
+	echo "curation is OK." . PHP_EOL;
+	}
 ?>
