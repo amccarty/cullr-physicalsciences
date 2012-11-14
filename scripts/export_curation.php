@@ -26,6 +26,11 @@ if (!is_dir($path) && !mkdir($path)) {
 	}
 $filename = $path . "$library-$version-$timestamp-curation.xml";
 
-$vl->export_curation($filename);
+if ($vl->export_curation($filename)) {
+	echo "curation exported to $filename" . PHP_EOL;
+	}
+else {
+	die("can't export curation!!!");
+	}
 
 ?>
