@@ -29,8 +29,24 @@ else {
 	}
 
 $curation = $vl->load_curation($input_filename);
-var_dump($curation);
+print_r($curation);
 if ($vl->check_curation($curation)) {
 	echo "curation is OK." . PHP_EOL;
 	}
+else {
+	$library = $vl->library_name;
+	$timestamp = date('Y-m-d-His');
+	$path = $vl->destination_path . "curation/";
+	if (!is_dir($path) && !mkdir($path)) {
+		die("can't create directory for $path");
+		}
+	$filename = $path . "backup-$library-$version-$timestamp-curation.xml";
+	echo "backing up existing curator info in $filename" . PHP_EOL;
+	
+	if (!$vl->export_curation($filename)) {
+		die("Can't export curation backup!!!");
+		}
+	}
+	
+$vl->replace_curation($curation);
 ?>
