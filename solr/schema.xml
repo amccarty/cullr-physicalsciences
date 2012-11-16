@@ -229,8 +229,8 @@
         	<filter class="solr.EnglishMinimalStemFilterFactory" />
 		</analyzer>
 	</fieldType>
-    <!-- this is the original text fieldType -jgr25
-    <fieldType name="text" class="solr.TextField" positionIncrementGap="100" autoGeneratePhraseQueries="true">
+    <!-- this is the original text fieldType -jgr25 -->
+    <fieldType name="text_original_version" class="solr.TextField" positionIncrementGap="100" autoGeneratePhraseQueries="true">
       <analyzer type="index">
         <tokenizer class="solr.WhitespaceTokenizerFactory"/>
         <!-- in this example, we will only use synonyms at query time
@@ -264,7 +264,6 @@
         <filter class="solr.PorterStemFilterFactory"/>
       </analyzer>
     </fieldType>
-	-->
 
     <!-- Less flexible matching, but less false matches.  Probably not ideal for product names,
          but may be good for SKUs.  Can insert dashes in the wrong place and still match. -->
