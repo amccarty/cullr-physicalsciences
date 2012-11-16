@@ -219,6 +219,17 @@
         to generate text:"pdp 11" rather than (text:PDP OR text:11).
         NOTE: autoGeneratePhraseQueries="true" tends to not work well for non whitespace delimited languages.
         -->
+	<fieldType name="text" class="solr.TextField" positionIncrementGap="100">
+		<analyzer>
+			<charFilter class="solr.HTMLStripCharFilterFactory" />
+			<tokenizer class="solr.StandardTokenizerFactory" />
+			<filter class="solr.WordDelimiterFilterFactory" generateWordParts="1" generateNumberParts="1" catenateWords="1" catenateNumbers="1" catenateAll="0" splitOnCaseChange="1" />
+			<filter class="solr.ICUFoldingFilterFactory" />
+        	<filter class="solr.KeywordMarkerFilterFactory" protected="protwords.txt"/>
+        	<filter class="solr.EnglishMinimalStemFilterFactory" />
+		</analyzer>
+	</fieldType>
+    <!-- this is the original text fieldType -jgr25
     <fieldType name="text" class="solr.TextField" positionIncrementGap="100" autoGeneratePhraseQueries="true">
       <analyzer type="index">
         <tokenizer class="solr.WhitespaceTokenizerFactory"/>
@@ -253,7 +264,7 @@
         <filter class="solr.PorterStemFilterFactory"/>
       </analyzer>
     </fieldType>
-
+	-->
 
     <!-- Less flexible matching, but less false matches.  Probably not ideal for product names,
          but may be good for SKUs.  Can insert dashes in the wrong place and still match. -->
