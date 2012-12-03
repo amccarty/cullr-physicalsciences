@@ -2,7 +2,7 @@
 /**
  * VL_PhysicalSciences.php - PSL subclass of VirtualLibrary
  */
- 
+
 include_once "/cullr/common/libphp/VirtualLibrary2.php";
 
 class VL_PhysicalSciences extends VirtualLibrary2 {
@@ -26,14 +26,18 @@ class VL_PhysicalSciences extends VirtualLibrary2 {
 			'cullr_vl_alt_title' => 'Curator Alternative Title',
 			'cullr_vl_alt_url' => 'Curator Alternative Resource URL',
 			);
-			
+
 		// initial value supplied by svn/spreadsheet file, not otherwise updated
 		$this->auxiliary_fields = array(
 			'psl_journal_finder_i' => 'Include in Journal Finder',
 			'psl_ebook_collection_i' => 'Include in eBook Collection',
 			'psl_specialized_database_i' => 'Include in Specialized Databases',
 			);
-			
+
+		// initial value supplied by PLOP, updated by curator via psl-additional-values.txt
+		$this->plop_initialize_only_fields['norm_callno'] = 'Call Number Sort Ascending';
+		$this->plop_initialize_only_fields['rev_norm_callno'] = 'Call Number Sort Descending';
+
 		// these are actually edited by curators - need to be preserved - see export_curation
 		$this->curation_fields = array(
 			'cullr_vl_annotation_author' => 'Annotation Author',
@@ -48,7 +52,7 @@ class VL_PhysicalSciences extends VirtualLibrary2 {
 			'cullr_vl_alt_title' => 'Curator Alternative Title',
 			'cullr_vl_alt_url' => 'Curator Alternative Resource URL',
 			);
-			
+
 		/* physical sciences library */
 		$this->library_name = 'physicalsciences';
 		$this->library_search_url_production = "http://raksha02.library.cornell.edu:8901/solr/select?";
@@ -59,10 +63,10 @@ class VL_PhysicalSciences extends VirtualLibrary2 {
 		$this->callno_source_file = 'psl-call-number-list.txt';
 		$this->package_source_file = 'psl-package-list.txt';
 		$this->extra_parameters_file = 'psl-additional-values.txt';
-					
-		$this->full_biblist_bibids_file = 'full_biblist.txt';	
+
+		$this->full_biblist_bibids_file = 'full_biblist.txt';
 		$this->full_biblist_bibid_sources_file = 'full_biblist_sources.txt';
-		
+
 		$this->latest_update_file = 'psl-latest-update.txt';
 
 		$this->library_indexing_url_production = "http://raksha02.library.cornell.edu:8951/solr/select?";
