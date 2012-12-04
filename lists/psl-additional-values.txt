@@ -1298,7 +1298,6 @@
 5371286	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0923-2958
 5370743	cullr_resource_url_link_current	http://www.sbfisica.org.br/bjp/
 3995313	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.nature.com/scientificamerican/archive/
-7072445	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pubs.acs.org/cen/archive/back2009.html
 5380499	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00903752
 5726027	cullr_resource_url_link_current	http://www.chemistrymag.org
 5377877	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pubs.acs.org/loi/joceah
