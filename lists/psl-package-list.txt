@@ -1,0 +1,6 @@
+ACSebksymp	General Chemistry	
+spieebk	Optical Physics, Quantum Electronics, Photonics;General Physics;General Astronomy	
+nanonetebk	Nanoscience & Nanobiotechnology;General Chemistry;General Physics	
+siamebk	Mathematical Physics;General Physics;General Astronomy	
+knovelebks	General Astronomy;General Physics;General Chemistry	
+RSCebks	General Chemistry	
