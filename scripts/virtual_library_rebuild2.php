@@ -11,9 +11,17 @@ iconv_set_encoding("internal_encoding", "UTF-8");
 
 $vl = new VL_PhysicalSciences();
 
-// look for the -production argument to rebuild the production version
+// look for the production argument to rebuild the production version
 if (isset($argv[1]) && ($argv[1] == 'production')) {
 	$vl->use_production_plop(TRUE);
+	}
+
+// look for the 'no-replication' argument to inhibit replication
+if (isset($argv[2]) && ($argv[2] == 'no-replication')) {
+	$replication = FALSE;
+	}
+else {
+	$replication = TRUE;
 	}
 	
 // find every bibid in the virtual library
@@ -21,6 +29,6 @@ $vl->delete_biblist();
 $vl->make_biblist();
 
 // rebuild the index solr instance
-$vl->rebuild_solr_index();
+$vl->rebuild_solr_index($replication);
 
 ?>
