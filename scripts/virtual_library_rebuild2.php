@@ -17,8 +17,13 @@ if (isset($argv[1]) && ($argv[1] == 'production')) {
 	}
 
 // look for the 'no-replication' argument to inhibit replication
-if (isset($argv[2]) && ($argv[2] == 'no-replication')) {
-	$replication = FALSE;
+if (isset($argv[2])) {
+	if ($argv[2] == 'no-replication') {
+		$replication = FALSE;
+		}
+	else {
+		die ('invald second argument - if present it must be no-replication!');
+		}
 	}
 else {
 	$replication = TRUE;
