@@ -671,7 +671,7 @@
    <field name="timestamp" type="date" indexed="true" stored="true" default="NOW" multiValued="false"/>
 
    <!-- field to hold title sort_title, alt_title, abbreviation for title search -->
-   <field name="combined_title_fields" type="text_rev" indexed="true" stored="true" multiValued="false"/>
+   <field name="combined_title_fields" type="text_rev" indexed="true" stored="true" multiValued="true"/>
 
    <!-- Dynamic field definitions.  If a field name is not found, dynamicFields
         will be used if the name matches any of the patterns.
