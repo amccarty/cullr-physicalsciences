@@ -643,6 +643,7 @@
 5378636	psl_journal_finder_i	1
 7594790	psl_journal_finder_i	1
 5369545	psl_journal_finder_i	1
+5379252	psl_journal_finder_i	1	
 2476849	psl_specialized_database_i	1
 2661413	psl_specialized_database_i	1
 2787682	psl_specialized_database_i	1
