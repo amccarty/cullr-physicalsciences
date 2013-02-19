@@ -4,3 +4,6 @@ nanonetebk	Nanoscience & Nanobiotechnology;General Chemistry;General Physics
 siamebk	Mathematical Physics;General Physics;General Astronomy	
 knovelebks	General Astronomy;General Physics;General Chemistry	
 RSCebks	General Chemistry	
+springerlinkebksphysicsoclc	General Physics	
+aipconfebk	General Physics	
+oxebksphys	General Physics	
