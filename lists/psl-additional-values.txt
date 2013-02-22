@@ -710,6 +710,7 @@
 7715537	psl_specialized_database_i	1
 7715969	psl_specialized_database_i	1
 7715979	psl_specialized_database_i	1
+1125226	cullr_resource_author	ЖЙЛФЧЫлыћ joe dokes and of course Hübner, Jacob
 5825784	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_no-med%26url=http://link.aip.org/link/?APCPCS
 6009714	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0036-0236
 5702603	cullr_resource_url_link_current	http://acta.chem-soc.si/
@@ -731,7 +732,6 @@
 5376978	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pubs.acs.org/loi/jceda8
 5378923	cullr_resource_url_link_current	http://relativity.livingreviews.org
 5702853	cullr_resource_url_link_current	http://journal.kcsnet.or.kr/main/j_search/j_finaledit.htm?qpage=j_search&spage=b_jkcs&dpage=fd
-6041874	cullr_resource_url_link_current	http://www.marsjournal.org/
 7054720	cullr_resource_url_link_current	http://www.hindawi.com/journals/ijic/
 5371864	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0010-3616
 5669700	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0974-3626
@@ -760,7 +760,7 @@
 5374519	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0015-9018
 5777293	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_no-med%26url=http://link.aip.org/link/?AJPIAS
 5964918	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/09205632
-5984877	cullr_resource_url_link_current	
+5548470	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_no-med%26url=http://www.worldscientific.com/loi/ijmpa
 5374196	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://xlink.rsc.org/jumptojournal.cfm?journal_code=FD
 5378254	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=1044-0305
 5369404	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00032697
@@ -779,7 +779,6 @@
 6408436	cullr_resource_url_link_current	http://www.bentham.org/open/toacj/
 5615311	cullr_resource_url_link_current	http://journals.tubitak.gov.tr/chem/index.php
 5615315	cullr_resource_url_link_current	http://journals.tubitak.gov.tr/physics/index.php
-4835520	cullr_resource_url_link_current	
 5384382	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/0042207X
 5381283	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/03759601
 5381280	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://iopscience.iop.org/0031-9120
@@ -816,6 +815,7 @@
 5375414	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00191035
 5372286	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0010-9525
 5924430	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://ieeexplore.ieee.org/servlet/opac?punumber=11102
+7073100	cullr_resource_url_link_current	http://www.thenanoresearch.com/work_list.asp
 5856631	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0006-2979
 5368825	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.tandfonline.com/loi/tadp20
 5378182	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0022-4715
@@ -835,13 +835,13 @@
 5371398	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/03010104
 5374004	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=1434-6060
 5374007	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00143057
-5832411	cullr_resource_url_link_current	
 5156082	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.nature.com/nmeth/archive/
 6835558	cullr_resource_url_link_current	http://nopr.niscair.res.in/handle/123456789/60
 5478148	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pubs.acs.org/loi/jcisd8
 5478149	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pubs.acs.org/loi/jctcce
-6335542	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0081-5993
+6335542	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://link.springer.com/openurl?genre=bookseries&issn=0081-5993
 5380780	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.opticsinfobase.org/ol/browse.cfm
+3301649	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencemag.org
 5381945	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00796565
 5380807	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pubs.acs.org/loi/oprdfk
 5380806	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pubs.acs.org/loi/orlef7
@@ -888,7 +888,6 @@
 5383866	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/09574166
 5383867	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00404039
 5370575	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.biomedcentral.com/bmcchembiol/archive
-4833001	cullr_resource_url_link_current	
 6821587	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=1990-3413
 5381228	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://xlink.rsc.org/jumptojournal.cfm?journal_code=PP
 5381229	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1751-1097
@@ -901,7 +900,7 @@
 5374003	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=1434-6044
 6821672	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=1866-6892
 7204093	cullr_resource_url_link_current	http://www.mathnet.ru/php/archive.phtml?jrnid=jmag&wshow=contents&option_lang=eng
-5686467	cullr_resource_url_link_current	
+5686467	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.oldenbourg-link.com/toc/zkri/current
 5373973	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://iopscience.iop.org/0143-0807
 5381201	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://rsta.royalsocietypublishing.org
 6835233	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.opticsinfobase.org/josaa/browse.cfm
@@ -915,12 +914,12 @@
 6955464	cullr_resource_url_link_current	http://www.bentham.org/open/tonmj/index.htm
 5377654	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0022-2291
 5378799	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0377-9017
-4833096	cullr_resource_url_link_current	
 6408331	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/10106030
 6408330	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/07317085
 5377659	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/10907807
 6797292	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://xlink.rsc.org/jumptojournal.cfm?journal_code=NR
 5382207	cullr_resource_url_link_current	http://www.scielo.br/scielo.php?script=sci_issues&pid=0100-4042&lng=pt&nrm=iso
+6217278	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1862-6270
 5725960	cullr_resource_url_link_current	http://www.hindawi.com/journals/bca/
 5375882	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00201693
 5375881	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0020-1685
@@ -932,7 +931,7 @@
 5841820	cullr_resource_url_link_current	http://www.hindawi.com/journals/IJP
 5379338	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/13504533
 5382934	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-3091
-4835734	cullr_resource_url_link_current	
+5777450	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_no-med%26url=http://link.aip.org/link/?JVTAD6
 5380778	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00304018
 7017072	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://geology.gsapubs.org/content
 5477713	cullr_resource_url_link_current	http://journal.kcsnet.or.kr/main/j_search/j_archives.htm?qpage=j_search&spage=b_bkcs&dpage=ar
@@ -941,7 +940,6 @@
 6408069	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/15671739
 5714960	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=1424-0637
 7071147	cullr_resource_url_link_current	http://www.fsr.ac.ma/GNPHE/
-4732150	cullr_resource_url_link_current	
 7594861	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://iopscience.iop.org/1538-4357
 5369982	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://iopscience.iop.org/0004-637X
 5374671	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0001-7701
@@ -962,7 +960,7 @@
 5369978	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://search.ebscohost.com/direct.asp?db=aph&jid=AST&scope=site
 5369979	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.aanda.org/index.php?option=com_issues&task=all&Itemid=39
 6259536	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.jstor.org/action/showPublication?journalCode=histstudnatsci
-6335545	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0340-1022
+6335545	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://link.springer.com/openurl?genre=bookseries&issn=0340-1022
 5384049	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/01659936
 5372680	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://informahealthcare.com/loi/bmg
 5377117	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/01683659
@@ -974,10 +972,8 @@
 5377076	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00219991
 5478258	cullr_resource_url_link_current	http://www.scielo.cl/scielo.php?script=sci_issues&pid=0717-9707&lng=pt&nrm=iso
 5383523	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.cell.com/structure/archive
-6041804	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.rsc.org/catalysts
 5373524	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00134686
 6041809	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/16310721
-5373522	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_no-med%26url=http://esl.ecsdl.org/content/by/year
 5373523	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_no-med%26url=http://www.electrochem.org/dl/interface/if_prev_iss.htm
 5373521	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4109
 5378057	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0236-5731
@@ -987,7 +983,6 @@
 5380224	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://iopscience.iop.org/1367-2630
 5380223	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://xlink.rsc.org/jumptojournal.cfm?journal_code=NJ
 5777496	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_no-med%26url=http://link.aip.org/link/?PHTEAH
-4832118	cullr_resource_url_link_current	
 5381252	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://xlink.rsc.org/jumptojournal.cfm?journal_code=CP
 5381255	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pra.aps.org/browse
 5381258	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://prb.aps.org/browse
@@ -1006,7 +1001,6 @@
 5382979	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/09244247
 5376357	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0020-7748
 5371424	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00456535
-6704152	cullr_resource_url_link_current	
 5369735	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-4184
 5380039	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.nature.com/nsmb/archive/
 5381953	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00796700
@@ -1016,7 +1010,6 @@
 5381959	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00796816
 5726292	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.tandfonline.com/loi/lmsa20
 5371409	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3781
-5790498	cullr_resource_url_link_current	
 5369497	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00034916
 5371402	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pubs.acs.org/loi/chreay
 5371401	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pubs.acs.org/loi/crtoec
@@ -1035,7 +1028,6 @@
 5380041	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0028-1042
 5369399	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://xlink.rsc.org/jumptojournal.cfm?journal_code=AN
 6954530	cullr_resource_url_link_current	http://public.carnet.hr/ccacaa/
-6955009	cullr_resource_url_link_current	
 5794800	cullr_resource_url_link_current	http://www.scielo.gpeari.mctes.pt/scielo.php?script=sci_issues&pid=0872-1904&lng=pt&nrm=iso
 5477586	cullr_resource_url_link_current	http://www.adv-geosci.net/volumes.html
 5964744	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1747-0285
@@ -1045,9 +1037,8 @@
 6408411	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/15499634
 6514894	cullr_resource_url_link_current	http://www.bentham.org/open/tonanoj/
 5374741	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.agu.org/journals/gl/
-5814111	cullr_resource_url_link_current	
+5814111	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=1615-0430
 6408418	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/13841076
-6586840	cullr_resource_url_link_current	
 5377035	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00219797
 5377403	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.agu.org/journals/jd/
 5377402	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/03930440
@@ -1060,7 +1051,6 @@
 5373209	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0012-5008
 5373203	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=1607-6729
 5370497	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/09565663
-6282325	cullr_resource_url_link_current	
 5383254	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0038-0946
 6408457	cullr_resource_url_link_current	http://www.bentham.org/open/topcj/
 5384019	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=1022-5528
@@ -1074,8 +1064,6 @@
 5383916	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0040-5779
 6408319	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00222860
 6408318	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/01677322
-5519621	cullr_resource_url_link_current	
-6051615	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.rsc.org/npu
 6821386	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/18722040
 5478327	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/0026265X
 5381193	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.tandfonline.com/loi/tphl20
@@ -1123,12 +1111,11 @@
 5376967	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00219517
 5371354	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_no-med%26url=http://link.aip.org/link/?CHAOEH
 4375865	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.nature.com/nmat/archive/
-5814008	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0075-8450
+5814008	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://link.springer.com/openurl?genre=bookseries&issn=0075-8450
 6408519	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/01491970
 5381140	cullr_resource_url_link_current	http://www.pharmtech.com/pharmtech/
 5379199	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2787
 5928940	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1860-7187
-4859896	cullr_resource_url_link_current	
 5375399	cullr_resource_url_link_current	http://www.hyle.org/index.html
 5379219	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/02540584
 5964935	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.tandfonline.com/loi/lmsc20
@@ -1148,7 +1135,6 @@
 6291124	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://prd.aps.org/browse
 5370425	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/15675394
 5381549	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0304-4289
-5421595	cullr_resource_url_link_current	
 6408317	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/13811169
 5477667	cullr_resource_url_link_current	http://aer.aas.org/
 5383615	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://iopscience.iop.org/0953-2048
@@ -1175,7 +1161,6 @@
 5372786	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/13590294
 5381934	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00796107
 6217128	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.annualreviews.org/loi/anchem
-5908759	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.rsc.org/mos
 6396690	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.znaturforsch.com/a.htm
 5372921	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://xlink.rsc.org/jumptojournal.cfm?journal_code=DT
 5373955	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/02235234
@@ -1187,7 +1172,6 @@
 5384977	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1521-3749
 5856787	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1610-1642a
 6181508	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0026-9247
-5686356	cullr_resource_url_link_current	
 6070970	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://ieeexplore.ieee.org/servlet/opac?punumber=4123961
 3756126	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_no-med%26url=http://link.aip.org/link/?VIRT01
 5371771	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/09277765
@@ -1281,8 +1265,8 @@
 6051569	cullr_resource_url_link_current	http://www.mdpi.com/journal/ijms
 5027246	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0949-8257
 5827507	cullr_resource_url_link_current	http://www.mathnet.ru/php/archive.phtml?jrnid=sigma&wshow=contents&option_lang=eng
-6335419	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=1617-5034
-6335418	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0065-3195
+6335419	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://link.springer.com/openurl?genre=bookseries&issn=1438-4329
+6335418	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://link.springer.com/openurl?genre=bookseries&issn=0065-3195
 5377777	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00222852
 5377952	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pubs.acs.org/loi/jpcafh
 5377950	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_no-med%26url=http://link.aip.org/link/?JPCRBU
@@ -1299,6 +1283,7 @@
 5371286	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&issn=0923-2958
 5370743	cullr_resource_url_link_current	http://www.sbfisica.org.br/bjp/
 3995313	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.nature.com/scientificamerican/archive/
+7072445	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://cen.acs.org/index.html
 5380499	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/00903752
 5726027	cullr_resource_url_link_current	http://www.chemistrymag.org
 5377877	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pubs.acs.org/loi/joceah
@@ -1312,7 +1297,7 @@
 5380016	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://xlink.rsc.org/jumptojournal.cfm?journal_code=NP
 5964901	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.nature.com/nnano/archive/
 5379793	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1365-2966
-5376878	cullr_resource_url_link_current	http://www.hindawi.com/journals/jammc
+5376878	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://find.galegroup.com/openurl/openurl?url_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&res_id=info:sid/gale:BCRC&ctx_enc=info:ofi:enc:UTF-8&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.issn=1463-9246&req_dat=info:sid/gale:ugnid:nysl_sc_cornl
 5376872	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.sciencedirect.com/science/journal/13646826
 5377458	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.springerlink.com/openurl.asp?genre=journal&eissn=1029-8479
 4833992	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://iopscience.iop.org/0036-021X
@@ -1328,4 +1313,3 @@
 5378636	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://pubs.acs.org/loi/langd5
 7594790	cullr_resource_url_link_current	http://prx.aps.org/
 5369545	cullr_resource_url_link_current	http://encompass.library.cornell.edu/cgi-bin/checkIP.cgi?access=gateway_standard%26url=http://www.annualreviews.org/loi/energy
-1125226	cullr_resource_author	ЖЙЛФЧЫлыћ joe dokes and of course Hübner, Jacob
