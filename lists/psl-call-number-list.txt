@@ -1,25 +1,25 @@
-QB 1|QB 139	General Astronomy;Astronomy & Astrophysics
+QB 1|QB 139	General Astronomy;Astronomy and Astrophysics
 QB 1|QB 9999	General Astronomy;General Astronomy
-QB 460|QB 466	General Astronomy;Astronomy & Astrophysics
+QB 460|QB 466	General Astronomy;Astronomy and Astrophysics
 QB 980|QB 991	General Astronomy;Cosmology
 QC 173.5|QC 173.65	General Astronomy;General Relativity
 TL 1055|TL 1059	General Astronomy;General Relativity
-QB 465|QB 465	General Astronomy;Infrared, Optical, & Radio Astronomy
-QB 470|QB 470	General Astronomy;Infrared, Optical, & Radio Astronomy
-QB 475|QB 480	General Astronomy;Infrared, Optical, & Radio Astronomy
-QB 81|QB 135	General Astronomy;Infrared, Optical, & Radio Astronomy
-TL 1200|TL 1488	General Astronomy;Infrared, Optical, & Radio Astronomy
-TL 3035|TL 3039	General Astronomy;Infrared, Optical, & Radio Astronomy
-QB 454|QB 456	General Astronomy;Planetary Studies
-QB 579|QB 789	General Astronomy;Planetary Studies
-TL 1050|TL 1064	General Astronomy;Planetary Studies
-TL 1070|TL 1074	General Astronomy;Planetary Studies
-TL 788.6|TL 788.6	General Astronomy;Planetary Studies
-TL 799|TL 799	General Astronomy;Planetary Studies
-TL 858|TL 862	General Astronomy;Planetary Studies
-TL 943|TL 944	General Astronomy;Planetary Studies
-TA 597|TA 600	General Astronomy;Planetary Studies
-TL 586|TL 588.9	General Astronomy;Planetary Studies
+QB 465|QB 465	General Astronomy;Infrared, Optical, and Radio Astronomy
+QB 470|QB 470	General Astronomy;Infrared, Optical, and Radio Astronomy
+QB 475|QB 480	General Astronomy;Infrared, Optical, and Radio Astronomy
+QB 81|QB 135	General Astronomy;Infrared, Optical, and Radio Astronomy
+TL 1200|TL 1488	General Astronomy;Infrared, Optical, and Radio Astronomy
+TL 3035|TL 3039	General Astronomy;Infrared, Optical, and Radio Astronomy
+QB 454|QB 456	General Astronomy;Planetary Science
+QB 579|QB 789	General Astronomy;Planetary Science
+TL 1050|TL 1064	General Astronomy;Planetary Science
+TL 1070|TL 1074	General Astronomy;Planetary Science
+TL 788.6|TL 788.6	General Astronomy;Planetary Science
+TL 799|TL 799	General Astronomy;Planetary Science
+TL 858|TL 862	General Astronomy;Planetary Science
+TL 943|TL 944	General Astronomy;Planetary Science
+TA 597|TA 600	General Astronomy;Planetary Science
+TL 586|TL 588.9	General Astronomy;Planetary Science
 QD 71|QD 142	General Chemistry;Analytical Chemistry
 QH 221|QH 221	General Chemistry;Analytical Chemistry
 QP 519.9|QP 519.9	General Chemistry;Analytical Chemistry
@@ -35,34 +35,34 @@ QP 519.9|QP 519.9	General Chemistry;Chemical Biology
 QP 801|QP 801	General Chemistry;Chemical Biology
 RS 400|RS 431	General Chemistry;Chemical Biology
 TP 248.13|TP 248.99	General Chemistry;Chemical Biology
-QC 464|QC 464	General Chemistry;Inorganic Chemistry
-QD 146|QD 197	General Chemistry;Inorganic Chemistry
-QD 475|QD 475	General Chemistry;Inorganic Chemistry
-TP 213|TP 246	General Chemistry;Inorganic Chemistry
-TA 403.9|TA 403.9	General Chemistry;Materials Science
-TA 404.25|TA 404.25	General Chemistry;Materials Science
-TA 418.5|TA 418.84	General Chemistry;Materials Science
-TK 7871.15|TK 7871.15	General Chemistry;Materials Science
-TK 9185|TK 9185.2	General Chemistry;Materials Science
-TP 1|TP 9999	General Chemistry;Materials Science
+QC 464|QC 464	General Chemistry;Inorganic and Organometallic Chemistry
+QD 146|QD 197	General Chemistry;Inorganic and Organometallic Chemistry
+QD 475|QD 475	General Chemistry;Inorganic and Organometallic Chemistry
+TP 213|TP 246	General Chemistry;Inorganic and Organometallic Chemistry
+TA 403.9|TA 403.9	General Chemistry;Materials and Nanochemistry
+TA 404.25|TA 404.25	General Chemistry;Materials and Nanochemistry
+TA 418.5|TA 418.84	General Chemistry;Materials and Nanochemistry
+TK 7871.15|TK 7871.15	General Chemistry;Materials and Nanochemistry
+TK 9185|TK 9185.2	General Chemistry;Materials and Nanochemistry
+TP 1|TP 9999	General Chemistry;Materials and Nanochemistry
 QD 1|QD 9999	General Chemistry;General Chemistry
-TP 810.5|TP 810.5	General Chemistry;Nanoscience, Nanobiotechnology
+TP 810.5|TP 810.5	General Chemistry;Nanoscience and Nanobiotechnology
 QC 462.5|QC 463	General Chemistry;Organic Chemistry
 QD 241|QD 441	General Chemistry;Organic Chemistry
 QD 476|QD 476	General Chemistry;Organic Chemistry
 TP 247|TP 248	General Chemistry;Organic Chemistry
 TP 950|TP 950	General Chemistry;Organic Chemistry
-QD 450|QD 801	General Chemistry;Physical & Theoretical Chemistry
-QD 901|QD 999	General Chemistry;Physical & Theoretical Chemistry
-TA 418.5|TA 418.5	General Chemistry;Physical & Theoretical Chemistry
+QD 450|QD 801	General Chemistry;Physical and Theoretical Chemistry
+QD 901|QD 999	General Chemistry;Physical and Theoretical Chemistry
+TA 418.5|TA 418.5	General Chemistry;Physical and Theoretical Chemistry
 QD 196|QD 196	General Chemistry;Polymer Chemistry
 QD 380|QD 388	General Chemistry;Polymer Chemistry
 QD 399|QD 406	General Chemistry;Polymer Chemistry
 TP 1080|TP 1185	General Chemistry;Polymer Chemistry
-QC 170|QC 197	General Physics;Atomic, Molecular and Chemical Physics
-QD 450|QD 801	General Physics;Atomic, Molecular and Chemical Physics
-TK 2965|TK 2969	General Physics;Atomic, Molecular and Chemical Physics
-TK 7874.8|TK 7874.8	General Physics;Atomic, Molecular and Chemical Physics
+QC 170|QC 197	General Physics;Atomic, Molecular, and Chemical Physics
+QD 450|QD 801	General Physics;Atomic, Molecular, and Chemical Physics
+TK 2965|TK 2969	General Physics;Atomic, Molecular, and Chemical Physics
+TK 7874.8|TK 7874.8	General Physics;Atomic, Molecular, and Chemical Physics
 QH 505|QH 505	General Physics;Biological Physics
 TP 248.13|TP 248.25	General Physics;Biological Physics
 QC 173.45|QC 173.45	General Physics;Condensed Matter and Solid State
@@ -74,14 +74,14 @@ TK 9340|TK 9340	General Physics;Elementary Particle Physics and Accelerator Phys
 QA 401|QA 433	General Physics;Mathematical Physics
 QC 19|QC 20.8	General Physics;Mathematical Physics
 QC 1|QC 9999	General Physics;General Physics
-T 174.7|T 174.7	General Physics;Nanoscience, Nanobiotechnology
-TA 1530|TA 1530	General Physics;Nanoscience, Nanobiotechnology
-TK 7874.84|TK 7874.85	General Physics;Nanoscience, Nanobiotechnology
-QB 463|QB 464.3	General Physics;Nuclear Physics, Radiation Physics
-QC 761.9|QC 762.6	General Physics;Nuclear Physics, Radiation Physics
-QC 770|QC 798	General Physics;Nuclear Physics, Radiation Physics
-QD 601|QD 635	General Physics;Nuclear Physics, Radiation Physics
-TK 9001|TK 9401	General Physics;Nuclear Physics, Radiation Physics
+T 174.7|T 174.7	General Physics;Nanoscience and Nanobiotechnology
+TA 1530|TA 1530	General Physics;Nanoscience and Nanobiotechnology
+TK 7874.84|TK 7874.85	General Physics;Nanoscience and Nanobiotechnology
+QB 463|QB 464.3	General Physics;Nuclear Physics
+QC 761.9|QC 762.6	General Physics;Nuclear Physics
+QC 770|QC 798	General Physics;Nuclear Physics
+QD 601|QD 635	General Physics;Nuclear Physics
+TK 9001|TK 9401	General Physics;Nuclear Physics
 QC 350|QC 467	General Physics;Optical Physics, Quantum Electronics, Photonics
 QC 476.8|QC 478	General Physics;Optical Physics, Quantum Electronics, Photonics
 QC 679|QC 689	General Physics;Optical Physics, Quantum Electronics, Photonics
