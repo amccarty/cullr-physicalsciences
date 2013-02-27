@@ -646,65 +646,65 @@
 5379252	Mathematical Physics;Cosmology;General Relativity
 5377354	Materials and Nanochemistry
 5377448	Materials and Nanochemistry
-2476849		Database
+2476849	Materials and Nanochemistry;General Physics	Database
 2661413		Database
-2787682		Database
-2892634		Database
-2900365		Database
-3044728		Database
-3072002		Database
-3343429		Database
-3551251		Database
+2787682	Mathematical and Theoretical Physics	Database
+2892634	Materials and Nanochemistry;General Astronomy;General Physics	Database
+2900365	General Astronomy;General Chemistry;General Physics	Database
+3044728	Planetary Science	Database
+3072002	General Astronomy;General Chemistry;General Physics	Database
+3343429	Materials and Nanochemistry	Database
+3551251	General Chemistry	Database
 3847710		Database
-3932532		Database
-3965882		Database
-4004406		Database
-4034016		Database
+3932532	General Astronomy;Astronomy and Astrophysics;Cosmology;General Relativity;Infrared, Optical, and Radio Astronomy;General Physics;Atomic, Molecular, and Chemical Physics;Biological Physics;Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Nuclear Physics;Optical Physics, Quantum Electronics, Photonics;Mathematical and Theoretical Physics	Database
+3965882	General Astronomy;General Chemistry;General Physics	Database
+4004406	Materials and Nanochemistry	Database
+4034016	General Chemistry	Database
 4090658		Database
-4113648		Database
-4122779		Database
-4126579		Database
-4279326		Database
-4478151		Database
-4478166		Database
+4113648	Materials and Nanochemistry	Database
+4122779	General Physics;Materials and Nanochemistry	Database
+4126579	General Physics	Database
+4279326	Materials and Nanochemistry	Database
+4478151	Materials and Nanochemistry	Database
+4478166	General Chemistry;Organic Chemistry	Database
 4637179		Database
 4721419		Database
-4833793		Database
-5111742		Database
-5124328		Database
-5168655		Database
+4833793	General Chemistry;General Physics	Database
+5111742	Biological Physics	Database
+5124328	General Astronomy;General Chemistry;General Physics	Database
+5168655	General Physics;General Chemistry;Materials and Nanochemistry	Database
 5618994		Database
-5668032		Database
-5780676		Database
-5799613		Database
-5960113		Database
-6144066		Database
-6144121		Database
+5668032	General Chemistry	Database
+5780676	General Chemistry	Database
+5799613	General Astronomy;General Chemistry;General Physics	Database
+5960113	Biological Physics	Database
+6144066	General Physics;General Astronomy	Database
+6144121	General Chemistry	Database
 6147334		Database
-6147657		Database
-6147680		Database
+6147657	General Chemistry	Database
+6147680	Biological Physics;Materials and Nanochemistry;General Physics	Database
 6147744		Database
-6189208		Database
-6191129		Database
-6197957		Database
-6318238		Database
-6815028		Database
-6831458		Database
-6851736		Database
-6851786		Database
-6889632		Database
-6964719		Database
-6980055		Database
+6189208	General Astronomy;General Physics;General Chemistry	Database
+6191129	General Chemistry	Database
+6197957	General Chemistry;Analytical Chemistry;Inorganic Chemistry;Organic Chemistry; Physical and Theoretical Chemistry; Materials and Nanochemistry	Database
+6318238	Planetary Science	Database
+6815028	General Chemistry	Database
+6831458	Infrared, Optical, and Radio Astronomy;Optical Physics, Quantum Electronics, Photonics	Database
+6851736	Inorganic Chemistry	Database
+6851786	General Chemistry;Organic Chemistry;Polymer Chemistry;Inorganic and Organometallic Chemistry;	Database
+6889632	General Chemistry;Organic Chemistry	Database
+6964719	General Chemistry	Database
+6980055	Optical Physics, Quantum Electronic, Photonics;Infrared, Optical, and Radio Astronomy	Database
 7007543		Database
-7019280		Database
-7051674		Database
-7055173		Database
-7055187		Database
+7019280	General Chemistry	Database
+7051674	General Chemistry	Database
+7055173	Materials and Nanochemistry	Database
+7055187	Materials and Nanochemistry	Database
 7066317		Database
-7072960		Database
-7086184		Database
-7117039		Database
-7298136		Database
+7072960	General Chemistry;Organic Chemistry	Database
+7086184	General Chemistry;Materials and Nanochemistry	Database
+7117039	General Chemistry;Materials and Nanochemistry	Database
+7298136	General Chemistry	Database
 7714730		Database
 7714754		Database
 5184844		Database
