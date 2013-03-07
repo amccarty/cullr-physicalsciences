@@ -44,7 +44,8 @@ TA 404.25|TA 404.25	General Chemistry;Materials and Nanochemistry
 TA 418.5|TA 418.84	General Chemistry;Materials and Nanochemistry
 TK 7871.15|TK 7871.15	General Chemistry;Materials and Nanochemistry
 TK 9185|TK 9185.2	General Chemistry;Materials and Nanochemistry
-TP 1|TP 9999	General Chemistry;Materials and Nanochemistry
+TP 1|TP 5000	General Chemistry;Materials and Nanochemistry
+TP 5001|TP 9999	General Chemistry;Materials and Nanochemistry
 QD 1|QD 9999	General Chemistry;General Chemistry
 TP 810.5|TP 810.5	General Chemistry;Nanoscience and Nanobiotechnology
 QC 462.5|QC 463	General Chemistry;Organic Chemistry
