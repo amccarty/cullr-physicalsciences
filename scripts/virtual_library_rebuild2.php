@@ -2,6 +2,9 @@
 /**
  * virtual_library_rebuild2.php - recreate psl virtual library
  * (run from the command line)
+ * php virtual_library_rebuild2.php test no-replication no-list-rebuild
+ * or
+ * php virtual_library_rebuild2.php production
  */
 include_once "VL_PhysicalSciences.php";
 
@@ -17,21 +20,26 @@ if (isset($argv[1]) && ($argv[1] == 'production')) {
 	}
 
 // look for the 'no-replication' argument to inhibit replication
+$replication = TRUE;
 if (isset($argv[2])) {
 	if ($argv[2] == 'no-replication') {
 		$replication = FALSE;
 		}
-	else {
-		die ('invald second argument - if present it must be no-replication!');
-		}
 	}
-else {
-	$replication = TRUE;
+
+// look for a 'no-list-rebuild' argument to skip this step
+$rebuild = TRUE;
+if (isset($argv[3])) {
+	if ($argv[3] == 'no-list-rebuild') {
+		$rebuild = FALSE;
 	}
-	
-// find every bibid in the virtual library
-$vl->delete_biblist();
-$vl->make_biblist();
+}
+
+if ($rebuild) {
+	// find every bibid in the virtual library
+	$vl->delete_biblist();
+	$vl->make_biblist();
+}
 
 // rebuild the index solr instance
 $vl->rebuild_solr_index($replication);
