@@ -539,8 +539,8 @@
    <field name="title" type="text" indexed="true" stored="true" multiValued="true"/>
    <field name="sort_title" type="text" indexed="true" stored="true" />
    <field name="norm_callnumber" type="string" indexed="true" stored="true" />
-   <field name="norm_callno" type="string" indexed="true" stored="true" />
-   <field name="rev_norm_callno" type="string" indexed="true" stored="true" />
+   <field name="norm_callno" multiValued="true" type="string" indexed="true" stored="true" />
+   <field name="rev_norm_callno" multiValued="true" type="string" indexed="true" stored="true" />
    <field name="callnumber" multiValued="true" type="text" indexed="true" stored="true"/>
    <field name="package" multiValued="true" type="text" indexed="true" stored="true"/>
    <field name="type" multiValued="true" type="text" indexed="true" stored="true"/>
