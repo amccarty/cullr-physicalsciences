@@ -510,8 +510,6 @@
 	   </analyzer>
    </fieldType>
 
- </types>
-
    <!--  Setup simple analysis for spell checking -->
 
    <fieldType name="textSpell" class="solr.TextField" positionIncrementGap="100">
@@ -523,6 +521,8 @@
        <filter class="solr.RemoveDuplicatesTokenFilterFactory" />
      </analyzer>
    </fieldType>
+
+ </types>
 
 
 
