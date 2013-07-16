@@ -32,6 +32,7 @@ class VL_PhysicalSciences extends VirtualLibrary2 {
 			'psl_journal_finder_i' => 'Include in Journal Finder',
 			'psl_ebook_collection_i' => 'Include in eBook Collection',
 			'psl_specialized_database_i' => 'Include in Specialized Databases',
+			'psl_classic_text_i' => 'Include in Classic Texts',
 			);
 
 		// initial value supplied by PLOP, updated by curator via psl-additional-values.txt
