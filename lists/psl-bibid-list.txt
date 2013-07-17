@@ -748,7 +748,7 @@
 4962137	General Physics
 3781195	General Physics
 2753442	General Physics
-6066564	General Physics
+6066564	General Physics; General Astronomy
 666069	General Physics
 2711130	General Physics
 6332696	General Physics
@@ -790,7 +790,6 @@
 4995236	General Physics
 6417926	General Physics
 3965685	General Physics
-6066564	General Astronomy
 1352570	General Astronomy
 34856	General Astronomy
 2477413	General Astronomy
