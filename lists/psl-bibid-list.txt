@@ -10,642 +10,642 @@
 5070030	Information Technology	package
 7493388	General Chemistry;Analytical Chemistry;Inorganic and Organometallic Chemistry;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry;Materials and Nanochemistry	package
 7484971	General Physics;General Chemistry;General Astronomy;Astronomy and Astrophysics;Cosmology;General Relativity;Infrared, Optical, and Radio Astronomy;Planetary Science;Analytical Chemistry;Inorganic and Organometallic Chemistry;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry;Materials and Nanochemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;Biological Physics;Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Particle Physics;Optical Physics, Quantum Electronics, Photonics;Mathematical and Theoretical Physics	package
-5825784	General Physics;Atomic, Molecular, and Chemical Physics;Biological Physics;Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Particle Physics;Optical Physics, Quantum Electronics, Photonics;Mathematical and Theoretical Physics
-6009714	Inorganic and Organometallic Chemistry
-5702603	General Chemistry
-6656571	Astronomy and Astrophysics
-5383638	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Physical and Theoretical Chemistry
-5376983	General Chemistry
-5376981	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5376984	Analytical Chemistry;Mathematical and Theoretical Physics
-5383705	Analytical Chemistry
-5377358	Inorganic and Organometallic Chemistry;Organic Chemistry
-6217132	Organic Chemistry
-5377357	Analytical Chemistry
-5477734	General Physics
-5376118	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5376977	Chemical Biology
-5376975	General Chemistry
-6570196	Inorganic and Organometallic Chemistry
-5477650	Cosmology;General Astronomy;General Physics
-5376978	General Chemistry
-5378923	General Physics;General Relativity
-5702853	General Chemistry
-6041874	General Astronomy;Planetary Science
-7054720	Inorganic and Organometallic Chemistry
-5371864	Mathematical and Theoretical Physics
-5669700	General Chemistry
-5669707	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5370410	Biological Physics;Chemical Biology
-5374903	General Chemistry
-5379005	Polymer Chemistry
-5379004	Polymer Chemistry
-5379003	Polymer Chemistry
-5379002	Polymer Chemistry
-5379000	Polymer Chemistry
-6408336	Astronomy and Astrophysics;Optical Physics, Quantum Electronics, Photonics;Planetary Science
-5377227	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5377734	Chemical Biology
-6070916	General Chemistry
-5373946	Inorganic and Organometallic Chemistry
-6408274	Analytical Chemistry
-5377834	Nanoscience and Nanobiotechnology
-5371767	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;Polymer Chemistry
-5382545	Astronomy and Astrophysics;Planetary Science
-5382546	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry
-6514158	General Chemistry
-5370014	Atomic, Molecular, and Chemical Physics;Particle Physics;Physical and Theoretical Chemistry
-5985176	Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry
-5374517	Atomic, Molecular, and Chemical Physics;General Chemistry;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry
-5374519	General Physics
-5777293	General Physics
-5964918	Particle Physics
-5548470	General Physics;Cosmology;General Astronomy;General Relativity;Particle Physics
-5984877	Analytical Chemistry
-5374196	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5378254	Analytical Chemistry
-5369404	Analytical Chemistry;Chemical Biology
-5369405	Analytical Chemistry
-5369402	Analytical Chemistry
-5369403	Analytical Chemistry;Chemical Biology
-5376305	Atomic, Molecular, and Chemical Physics;Mathematical and Theoretical Physics;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry
-5369560	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5777448	General Chemistry
-5827443	General Chemistry
-5964933	Astronomy and Astrophysics;Particle Physics
-5964931	Astronomy and Astrophysics;Planetary Science
-5648888	General Physics
-5370068	General Chemistry
-7575887	Biological Physics;Chemical Biology
-6408436	Analytical Chemistry
-5615311	General Chemistry
-5615315	General Physics
-4835520	General Physics
-5384382	General Physics
-5381283	Biological Physics;Condensed Matter and Solid State;General Physics;Nanoscience and Nanobiotechnology
-5381280	General Physics
-5381281	Biological Physics
-5381284	Biological Physics;Atomic, Molecular, and Chemical Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry
-5383640	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Physical and Theoretical Chemistry
-6408604	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry
-6235574	Planetary Science
-5376784	Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry
-5376831	Mathematical and Theoretical Physics
-5376837	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry
-5371420	Organic Chemistry
-5813995	Nanoscience and Nanobiotechnology
-5371385	General Chemistry;Nanoscience and Nanobiotechnology
-5384251	Analytical Chemistry;Optical Physics, Quantum Electronics, Photonics
-5371382	General Chemistry
-6105805	Nanoscience and Nanobiotechnology
-5731187	Nanoscience and Nanobiotechnology
-5373340	General Chemistry
-6408019	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5371355	General Physics
-5489859	Chemical Biology
-5370404	Biological Physics;Chemical Biology
-5370406	Biological Physics;Chemical Biology
-6273513	Biological Physics;Chemical Biology
-5370408	Biological Physics;Chemical Biology;General Chemistry
-5715276	Mathematical and Theoretical Physics
-5371569	Analytical Chemistry
-5383260	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Physical and Theoretical Chemistry
-5383261	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry
-5383516	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6029058	Optical Physics, Quantum Electronics, Photonics
-5381861	General Astronomy;General Chemistry;General Physics
-5375414	General Astronomy;Planetary Science
-5372286	Astronomy and Astrophysics
-5924430	Nanoscience and Nanobiotechnology
-7073100	Nanoscience and Nanobiotechnology
-5856631	Chemical Biology
-5368825	Condensed Matter and Solid State;General Physics
-5378182	Mathematical and Theoretical Physics
-5383947	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology
-6235558	Planetary Science
-6821580	Mathematical and Theoretical Physics
-5381265	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry
-5381260	Particle Physics
-5381262	Mathematical and Theoretical Physics
-5377603	Analytical Chemistry;Chemical Biology
-6373666	Organic Chemistry
-5382113	General Astronomy
-5380394	Chemical Biology
-6751103	General Physics
-5908770	Particle Physics
-5374001	Astronomy and Astrophysics;Particle Physics;Particle Physics
-5371398	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5374004	Atomic, Molecular, and Chemical Physics;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;Physical and Theoretical Chemistry
-5374007	Polymer Chemistry
-5832411	General Chemistry
-5156082	Chemical Biology
-6835558	Chemical Biology;Organic Chemistry
-5478148	Atomic, Molecular, and Chemical Physics;General Chemistry;Physical and Theoretical Chemistry
-5478149	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6335542	Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry
-5380780	Optical Physics, Quantum Electronics, Photonics
-3301649	General Astronomy;General Chemistry;General Physics
-5381945	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5380807	Organic Chemistry
-5380806	Organic Chemistry
-5380804	Chemical Biology;Organic Chemistry
-5371205	Chemical Biology;Organic Chemistry
-5908708	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;General Physics;Particle Physics;Physical and Theoretical Chemistry
-5908709	Astronomy and Astrophysics;General Physics;General Physics;Particle Physics;Particle Physics
-6835672	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6570178	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6280024	Astronomy and Astrophysics
-5368795	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry
-6408530	Particle Physics
-5369533	Cosmology;General Astronomy;General Relativity
-5369530	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6311146	Condensed Matter and Solid State
-5370480	Chemical Biology;Organic Chemistry
-5826869	General Astronomy
-5378163	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5378162	Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry
-7072450	General Astronomy
-5777495	General Physics
-5378202	Analytical Chemistry
-5369430	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;General Chemistry;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry
-5477632	Astronomy and Astrophysics;Planetary Science
-5377948	Biological Physics;Chemical Biology
-5374737	Planetary Science
-5379738	Chemical Biology
-5376996	Analytical Chemistry;Chemical Biology
-5376997	Analytical Chemistry;Chemical Biology
-5368702	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5368703	Biological Physics;Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5368701	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5368704	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5368705	Biological Physics;Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5371374	Chemical Biology
-5826664	General Chemistry
-5371373	General Chemistry
-5777370	Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry;Polymer Chemistry
-5379249	Mathematical and Theoretical Physics
-5964721	Astronomy and Astrophysics;Cosmology;General Astronomy;Particle Physics
-6451343	Particle Physics
-5372679	Analytical Chemistry
-6373883	General Chemistry
-5477687	Chemical Biology
-5378060	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5383865	Organic Chemistry
-5383866	Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Organic Chemistry;Physical and Theoretical Chemistry
-5383867	Organic Chemistry
-5370575	Chemical Biology
-4833001	General Physics;Particle Physics
-6821587	Astronomy and Astrophysics
-5381228	Biological Physics;Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5381229	Biological Physics;Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5379016	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5379017	Analytical Chemistry;Chemical Biology
-5383253	Astronomy and Astrophysics;General Astronomy
-5373305	Planetary Science
-6408495	Nanoscience and Nanobiotechnology
-5383258	Condensed Matter and Solid State
-5374003	Particle Physics
-6821672	Infrared, Optical, and Radio Astronomy;Optical Physics, Quantum Electronics, Photonics
-7204093	Mathematical and Theoretical Physics
-5686467	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5373973	General Physics
-5381201	General Physics
-6835233	Optical Physics, Quantum Electronics, Photonics
-6398566	General Chemistry
-5372070	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5382980	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry
-5370416	Biological Physics;Chemical Biology
-5513715	Nanoscience and Nanobiotechnology
-3326779	Optical Physics, Quantum Electronics, Photonics
-4822923	Condensed Matter and Solid State
-6955464	Nanoscience and Nanobiotechnology
-5377654	Condensed Matter and Solid State
-5378799	Mathematical and Theoretical Physics
-4833096	General Chemistry
-6408331	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6408330	Chemical Biology
-5377659	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6797292	Nanoscience and Nanobiotechnology
-5382207	General Chemistry
-6217278	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology
-5725960	Chemical Biology;Inorganic and Organometallic Chemistry;Organic Chemistry
-5375882	Inorganic and Organometallic Chemistry
-5375881	Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Nanoscience and Nanobiotechnology
-5375880	Inorganic and Organometallic Chemistry
-5370392	Biological Physics;Chemical Biology
-6105619	Chemical Biology;Organic Chemistry
-5841825	General Chemistry
-5370399	Chemical Biology
-5841820	Atomic, Molecular, and Chemical Physics;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry
-5379338	General Physics
-5382934	Planetary Science
-5777450	Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics
-4835734	Cosmology;General Astronomy;General Relativity;Infrared, Optical, and Radio Astronomy;Planetary Science
-5380778	Optical Physics, Quantum Electronics, Photonics
-7017072	Planetary Science
-5477713	General Chemistry
-5964929	General Physics
-5477578	Particle Physics
-6408069	Biological Physics;General Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics
-5714960	Mathematical and Theoretical Physics;Particle Physics
-7071147	Mathematical and Theoretical Physics
-4732150	Mathematical and Theoretical Physics;Particle Physics
-7594861	Astronomy and Astrophysics
-5369982	Astronomy and Astrophysics;Cosmology;General Relativity
-5374671	General Relativity;General Relativity;Particle Physics
-5369980	Astronomy and Astrophysics;Cosmology;General Astronomy;General Relativity
-5369986	Astronomy and Astrophysics
-6009596	Mathematical and Theoretical Physics
-7594843	Astronomy and Astrophysics
-6105715	Biological Physics
-5478633	General Physics
-5383675	Organic Chemistry
-5383676	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Polymer Chemistry
-5378565	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry
-5383672	Organic Chemistry
-5376820	Nanoscience and Nanobiotechnology
-5369977	Astronomy and Astrophysics;General Astronomy;Planetary Science
-5378235	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;General Chemistry;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry
-5369975	General Astronomy
-5376797	Analytical Chemistry
-5918701	Condensed Matter and Solid State
-5369978	General Astronomy
-5369979	Astronomy and Astrophysics;General Astronomy
-6259536	General Astronomy;General Chemistry;General Physics
-6335545	General Chemistry
-5384049	Analytical Chemistry
-5372680	Chemical Biology
-5377117	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry
-5262506	Chemical Biology
-5372688	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry
-6408049	Astronomy and Astrophysics;General Physics
-6408048	General Chemistry
-5377074	Mathematical and Theoretical Physics
-6408040	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5377076	Mathematical and Theoretical Physics
-5478258	General Chemistry
-5383523	Biological Physics;Chemical Biology
-6041804	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5373524	Nanoscience and Nanobiotechnology;Nanoscience and Nanobiotechnology
-6041809	Mathematical and Theoretical Physics
-5373522	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Nanoscience and Nanobiotechnology
-5373523	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Nanoscience and Nanobiotechnology
-5373521	Analytical Chemistry;Nanoscience and Nanobiotechnology
-5378057	Analytical Chemistry;Inorganic and Organometallic Chemistry;Particle Physics
-5378193	Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry
-5382718	General Physics
-5382533	Analytical Chemistry;Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry
-5380224	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry
-5380223	General Chemistry
-5777496	General Physics
-4832118	General Astronomy
-5381252	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5381255	Atomic, Molecular, and Chemical Physics;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry
-5381258	Condensed Matter and Solid State
-6070890	Astronomy and Astrophysics
-6821727	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5548488	General Physics
-5382249	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-4029110	General Astronomy;General Chemistry;General Physics
-6835008	Analytical Chemistry
-5374403	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5377995	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5377994	Polymer Chemistry
-5378280	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-7438686	Analytical Chemistry
-5382712	Organic Chemistry
-5382979	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry
-5376357	Mathematical and Theoretical Physics
-5371424	Chemical Biology
-6704152	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5369735	Chemical Biology
-5380039	Biological Physics;Chemical Biology
-5381953	Polymer Chemistry
-5381957	Condensed Matter and Solid State;Inorganic and Organometallic Chemistry
-5380817	Inorganic and Organometallic Chemistry;Organic Chemistry
-5382409	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry
-5381959	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Physical and Theoretical Chemistry
-5726292	Polymer Chemistry
-5371409	General Chemistry
-5790498	Particle Physics
-5369497	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry
-5371402	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;General Chemistry;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry
-5371401	Chemical Biology
-5371400	General Chemistry
-5371406	Nanoscience and Nanobiotechnology;Nanoscience and Nanobiotechnology
-5371404	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;General Chemistry;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry
-5478282	General Chemistry
-5478281	Analytical Chemistry;Optical Physics, Quantum Electronics, Photonics
-6400299	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5369540	Planetary Science
-6578635	General Chemistry
-5374035	General Physics
-5374034	General Physics
-7259120	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5369429	General Chemistry
-5380041	General Chemistry
-5369399	Analytical Chemistry
-6954530	General Chemistry
-6955009	General Physics
-5794800	Nanoscience and Nanobiotechnology
-5477586	Astronomy and Astrophysics;Planetary Science
-5964744	Chemical Biology
-6373801	Nanoscience and Nanobiotechnology
-6217234	Nanoscience and Nanobiotechnology;Nanoscience and Nanobiotechnology;Particle Physics
-6984615	General Astronomy
-6408411	Nanoscience and Nanobiotechnology
-6514894	Nanoscience and Nanobiotechnology
-5374741	Astronomy and Astrophysics;Planetary Science
-5814111	General Physics
-6408418	Astronomy and Astrophysics;General Astronomy
-6586840	General Chemistry
-5377035	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5377403	Astronomy and Astrophysics;Planetary Science
-5377402	Mathematical and Theoretical Physics
-6105629	Organic Chemistry
-5369974	Cosmology;General Astronomy;General Relativity;Infrared, Optical, and Radio Astronomy;Planetary Science
-5377406	Planetary Science
-6985823	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry
-5375865	Infrared, Optical, and Radio Astronomy;Optical Physics, Quantum Electronics, Photonics
-5369973	Astronomy and Astrophysics;Planetary Science
-5373209	General Chemistry
-5373203	Biological Physics;Chemical Biology
-5370497	Analytical Chemistry
-6282325	General Chemistry
-5383254	General Astronomy
-6408457	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5384019	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6897731	Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5383919	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5377717	Mathematical and Theoretical Physics
-6984599	Planetary Science
-5370460	Chemical Biology;Organic Chemistry;Polymer Chemistry
-5377712	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5383915	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5383916	Mathematical and Theoretical Physics
-6408319	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6408318	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5519621	General Astronomy;Infrared, Optical, and Radio Astronomy
-6051615	Chemical Biology;Organic Chemistry
-6821386	Analytical Chemistry
-5478327	Analytical Chemistry
-5381193	Condensed Matter and Solid State
-5381190	Condensed Matter and Solid State
-6041930	Astronomy and Astrophysics
-6140576	Nanoscience and Nanobiotechnology
-6373601	Mathematical and Theoretical Physics;Particle Physics
-6140575	Chemical Biology
-6451494	Analytical Chemistry
-5372069	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;General Physics;Physical and Theoretical Chemistry
-6984540	Nanoscience and Nanobiotechnology
-5373967	Chemical Biology
-5378999	Chemical Biology;Nanoscience and Nanobiotechnology;Polymer Chemistry
-5373962	Organic Chemistry
-5477849	Condensed Matter and Solid State
-6407961	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry
-5381996	Chemical Biology
-5381997	Biological Physics;Chemical Biology
-5380504	Particle Physics
-5381995	Chemical Biology
-5380503	Particle Physics
-5380509	Particle Physics
-5381448	Polymer Chemistry
-5381449	Polymer Chemistry
-5377663	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology
-5381366	Astronomy and Astrophysics;Particle Physics
-5377884	Inorganic and Organometallic Chemistry
-6797169	General Chemistry;General Physics;Mathematical and Theoretical Physics
-6451121	Optical Physics, Quantum Electronics, Photonics
-5377145	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5381447	Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry
-5478456	General Chemistry;General Physics
-6027285	General Physics
-5371522	Analytical Chemistry;Chemical Biology;Organic Chemistry
-5513533	Nanoscience and Nanobiotechnology
-5756408	General Physics;Optical Physics, Quantum Electronics, Photonics
-7132704	Nanoscience and Nanobiotechnology
-5379286	General Physics
-6688733	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5381242	Mathematical and Theoretical Physics
-5964917	Particle Physics
-5964851	Astronomy and Astrophysics;Cosmology;Cosmology;General Relativity
-5369742	Mathematical and Theoretical Physics
-5371631	Astronomy and Astrophysics;General Relativity;Particle Physics
-5369746	Biological Physics;Chemical Biology
-5376967	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5371354	General Physics
-4375865	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Chemistry;General Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry
-5814008	General Physics
-6408519	General Chemistry;General Physics
-5381140	Analytical Chemistry
-5379199	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5928940	Chemical Biology
-4859896	Atomic, Molecular, and Chemical Physics;General Physics;Mathematical and Theoretical Physics;Physical and Theoretical Chemistry
-5375399	General Chemistry
-5379219	Nanoscience and Nanobiotechnology
-5964935	Polymer Chemistry
-6400300	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5376815	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6373830	Mathematical and Theoretical Physics
-5375546	Chemical Biology
-5383353	General Astronomy
-5372236	Inorganic and Organometallic Chemistry
-5374714	Infrared, Optical, and Radio Astronomy;Planetary Science
-5384110	Inorganic and Organometallic Chemistry
-6897757	Nanoscience and Nanobiotechnology
-5374713	Planetary Science
-5377699	Analytical Chemistry;Biological Physics;Organic Chemistry
-6408051	Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5370427	Chemical Biology;Nanoscience and Nanobiotechnology
-6291124	Cosmology;Cosmology;General Relativity;Infrared, Optical, and Radio Astronomy;Particle Physics;Planetary Science
-5370425	Biological Physics;Chemical Biology;Nanoscience and Nanobiotechnology
-5381549	General Physics
-5421595	General Physics
-6408317	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5477667	General Astronomy
-5383615	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology
-6797184	Nanoscience and Nanobiotechnology
-5368803	Organic Chemistry
-5368808	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5372711	Chemical Biology
-7073123	Nanoscience and Nanobiotechnology
-6140625	Chemical Biology;General Chemistry
-6671193	Chemical Biology
-6408630	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6105833	Chemical Biology
-5381899	General Astronomy;General Chemistry;General Physics
-6408228	Inorganic and Organometallic Chemistry
-6041889	Chemical Biology
-5368652	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;General Chemistry;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry
-5381246	Mathematical and Theoretical Physics
-5381247	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology
-5381244	Condensed Matter and Solid State
-5377961	Atomic, Molecular, and Chemical Physics;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry
-5372785	Biological Physics;Chemical Biology
-5377967	Particle Physics
-5377964	Biological Physics;Atomic, Molecular, and Chemical Physics;General Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry
-5372786	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5381934	Biological Physics;Chemical Biology
-6217128	Analytical Chemistry
-5908759	Organic Chemistry
-6396690	Astronomy and Astrophysics;Atomic, Molecular, and Chemical Physics;Cosmology;Mathematical and Theoretical Physics;Physical and Theoretical Chemistry
-5372921	Inorganic and Organometallic Chemistry
-5373955	Chemical Biology
-5372015	Atomic, Molecular, and Chemical Physics;Mathematical and Theoretical Physics;Physical and Theoretical Chemistry
-5377981	Astronomy and Astrophysics;Mathematical and Theoretical Physics;Particle Physics
-5377222	Analytical Chemistry;Nanoscience and Nanobiotechnology
-6071053	General Chemistry
-5686211	Organic Chemistry
-5384977	Inorganic and Organometallic Chemistry
-5856787	Condensed Matter and Solid State
-6181508	General Chemistry
-5686356	Chemical Biology
-6070970	Nanoscience and Nanobiotechnology
-3756126	Nanoscience and Nanobiotechnology
-5371771	Biological Physics;Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry
-6408649	Analytical Chemistry
-5371419	Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry
-6217214	Nanoscience and Nanobiotechnology
-5371410	General Chemistry;Nanoscience and Nanobiotechnology
-7178475	Mathematical and Theoretical Physics
-5371412	General Chemistry
-5371413	Chemical Biology
-5371414	Chemical Biology
-6587228	Nanoscience and Nanobiotechnology
-6797351	Analytical Chemistry
-5368699	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5377521	Chemical Biology;Inorganic and Organometallic Chemistry
-5379920	Nanoscience and Nanobiotechnology
-5379921	Nanoscience and Nanobiotechnology
-5648806	Inorganic and Organometallic Chemistry
-5707406	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5369552	Nanoscience and Nanobiotechnology
-5369557	Particle Physics
-6984448	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;General Chemistry;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry
-6513784	Analytical Chemistry
-6878153	Polymer Chemistry
-5375125	General Chemistry
-5984891	General Chemistry
-5369410	Analytical Chemistry
-5378266	General Chemistry
-6071028	Nanoscience and Nanobiotechnology
-6821171	Planetary Science
-5377798	Nanoscience and Nanobiotechnology
-5381294	General Physics
-5381291	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry
-7178141	Nanoscience and Nanobiotechnology
-5381293	General Physics
-5381993	Chemical Biology
-5378501	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6105631	Inorganic and Organometallic Chemistry
-5369671	Inorganic and Organometallic Chemistry
-6105637	Inorganic and Organometallic Chemistry
-5382702	Chemical Biology
-5382703	Inorganic and Organometallic Chemistry
-5382876	General Astronomy;General Chemistry;General Physics
-5382701	General Chemistry
-5382706	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5382707	General Chemistry
-6400230	Nanoscience and Nanobiotechnology
-5371399	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5375754	General Chemistry;Nanoscience and Nanobiotechnology
-5379223	Nanoscience and Nanobiotechnology
-5376921	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6513646	Biological Physics;Chemical Biology
-5379224	Nanoscience and Nanobiotechnology
-5370488	Chemical Biology;Polymer Chemistry
-5379842	Mathematical and Theoretical Physics
-5373210	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5370481	Chemical Biology;Organic Chemistry
-5370482	Chemical Biology;Organic Chemistry
-6797072	Condensed Matter and Solid State;Particle Physics;Polymer Chemistry
-5370485	Biological Physics;Chemical Biology
-5726318	General Chemistry
-5827214	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry
-5371950	Chemical Biology
-6236013	Biological Physics;Chemical Biology
-5382696	General Chemistry
-6105835	Chemical Biology
-5370412	Biological Physics;Chemical Biology
-5370411	Biological Physics;Chemical Biology
-5377701	Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry
-5370417	Chemical Biology
-5379741	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5370414	Biological Physics;Chemical Biology
-5370418	Chemical Biology;Organic Chemistry
-5371427	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5374116	Astronomy and Astrophysics;General Astronomy
-6105644	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5777500	Nanoscience and Nanobiotechnology
-6105641	Nanoscience and Nanobiotechnology
-6105640	Atomic, Molecular, and Chemical Physics;Organic Chemistry;Physical and Theoretical Chemistry
-5383370	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5371421	General Chemistry
-5383372	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6105649	Chemical Biology;Organic Chemistry
-5375589	Nanoscience and Nanobiotechnology
-5382197	Biological Physics
-6408283	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5374509	Mathematical and Theoretical Physics
-6070940	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry
-5372190	General Physics
-5375401	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Particle Physics;Physical and Theoretical Chemistry
-5378965	Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry
-5478134	Astronomy and Astrophysics;General Astronomy
-6051569	Atomic, Molecular, and Chemical Physics;General Chemistry;Physical and Theoretical Chemistry
-5027246	Chemical Biology;Inorganic and Organometallic Chemistry
-5827507	Astronomy and Astrophysics;Cosmology;Mathematical and Theoretical Physics
-6335419	Condensed Matter and Solid State
-6335418	Polymer Chemistry
-5377777	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5377952	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5377950	Atomic, Molecular, and Chemical Physics;General Chemistry;General Physics;Physical and Theoretical Chemistry
-5377773	Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5377955	Atomic, Molecular, and Chemical Physics;Organic Chemistry;Physical and Theoretical Chemistry
-6936942	General Physics
-5985263	General Astronomy
-5377959	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Physical and Theoretical Chemistry
-6936947	General Chemistry
-5381279	Planetary Science
-7258622	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-6878128	General Physics
-6897568	Nanoscience and Nanobiotechnology
-5371286	Astronomy and Astrophysics
-5370743	General Physics
-3995313	General Astronomy;General Chemistry;General Physics
-7072445	General Chemistry
-5380499	Particle Physics
-5726027	General Chemistry
-5377877	Organic Chemistry
-5429657	General Chemistry
-6259255	General Physics
-7259116	General Physics
-5377751	Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics
-5777434	General Physics
-5369451	General Physics
-5380158	Astronomy and Astrophysics;General Astronomy
-5380016	Chemical Biology;Organic Chemistry
-5964901	Nanoscience and Nanobiotechnology
-5379793	Cosmology;General Astronomy;General Relativity;Infrared, Optical, and Radio Astronomy;Planetary Science
-5376878	Analytical Chemistry
-5376872	Planetary Science
-5377458	Particle Physics
-4833992	General Chemistry
-6334557	Analytical Chemistry
-5376428	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-5841891	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;Polymer Chemistry
-5369529	Organic Chemistry
-5777481	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry
-5378214	Optical Physics, Quantum Electronics, Photonics
-5918692	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology
-5371519	General Physics
-5369527	Inorganic and Organometallic Chemistry
-5378636	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry
-7594790	General Physics
-5369545	Planetary Science
-5379252	Mathematical and Theoretical Physics;Cosmology;General Relativity
-5377354	Materials and Nanochemistry
-5377448	Materials and Nanochemistry
+5825784	General Physics;Atomic, Molecular, and Chemical Physics;Biological Physics;Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Particle Physics;Optical Physics, Quantum Electronics, Photonics;Mathematical and Theoretical Physics;All Physics
+6009714	Inorganic and Organometallic Chemistry;All Chemistry
+5702603	General Chemistry;All Chemistry
+6656571	Astronomy and Astrophysics;All Astronomy
+5383638	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5376983	General Chemistry;All Chemistry
+5376981	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5376984	Analytical Chemistry;Mathematical and Theoretical Physics;All Chemistry;All Physics
+5383705	Analytical Chemistry;All Chemistry
+5377358	Inorganic and Organometallic Chemistry;Organic Chemistry;All Chemistry
+6217132	Organic Chemistry;All Chemistry
+5377357	Analytical Chemistry;All Chemistry
+5477734	General Physics;All Physics
+5376118	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5376977	Chemical Biology;All Chemistry
+5376975	General Chemistry;All Chemistry
+6570196	Inorganic and Organometallic Chemistry;All Chemistry
+5477650	Cosmology;General Astronomy;General Physics;All Physics;All Astronomy
+5376978	General Chemistry;All Chemistry
+5378923	General Physics;General Relativity;All Physics;All Astronomy
+5702853	General Chemistry;All Chemistry
+6041874	General Astronomy;Planetary Science;All Astronomy
+7054720	Inorganic and Organometallic Chemistry;All Chemistry
+5371864	Mathematical and Theoretical Physics;All Physics
+5669700	General Chemistry;All Chemistry
+5669707	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5370410	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5374903	General Chemistry;All Chemistry
+5379005	Polymer Chemistry;All Chemistry
+5379004	Polymer Chemistry;All Chemistry
+5379003	Polymer Chemistry;All Chemistry
+5379002	Polymer Chemistry;All Chemistry
+5379000	Polymer Chemistry;All CHemistry
+6408336	Astronomy and Astrophysics;Optical Physics, Quantum Electronics, Photonics;Planetary Science;All Astronomy;All Physics
+5377227	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All CHemistry;All Chemistry
+5377734	Chemical Biology;All Chemistry
+6070916	General Chemistry;All Chemistry
+5373946	Inorganic and Organometallic Chemistry;All Chemistry
+6408274	Analytical Chemistry;All Chemistry
+5377834	Nanoscience and Nanobiotechnology;All Physics
+5371767	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;Polymer Chemistry;All Physics;All Chemistry
+5382545	Astronomy and Astrophysics;Planetary Science;All Astronomy
+5382546	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6514158	General Chemistry;All Chemistry
+5370014	Atomic, Molecular, and Chemical Physics;Particle Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5985176	Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5374517	Atomic, Molecular, and Chemical Physics;General Chemistry;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5374519	General Physics;All Physics
+5777293	General Physics;All Physics
+5964918	Particle Physics;All Physics
+5548470	General Physics;Cosmology;General Astronomy;General Relativity;Particle Physics;All Physics;All Astronomy
+5984877	Analytical Chemistry;All Chemistry
+5374196	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5378254	Analytical Chemistry;All Chemistry
+5369404	Analytical Chemistry;Chemical Biology;All Chemistry
+5369405	Analytical Chemistry;All Chemistry
+5369402	Analytical Chemistry;All Chemistry
+5369403	Analytical Chemistry;Chemical Biology;All Chemistry
+5376305	Atomic, Molecular, and Chemical Physics;Mathematical and Theoretical Physics;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5369560	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5777448	General Chemistry;All Chemistry
+5827443	General Chemistry;All Chemistry
+5964933	Astronomy and Astrophysics;Particle Physics;All Astronomy;All Physics
+5964931	Astronomy and Astrophysics;Planetary Science;All Astronomy
+5648888	General Physics;All Physics
+5370068	General Chemistry;All Chemistry
+7575887	Biological Physics;Chemical Biology;All Physics;All Chemistry
+6408436	Analytical Chemistry;All Chemistry
+5615311	General Chemistry;All Chemistry
+5615315	General Physics;All Physics
+4835520	General Physics;All Physics
+5384382	General Physics;All Physics
+5381283	Biological Physics;Condensed Matter and Solid State;General Physics;Nanoscience and Nanobiotechnology;All Physics
+5381280	General Physics;All Physics
+5381281	Biological Physics;All Physics
+5381284	Biological Physics;Atomic, Molecular, and Chemical Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5383640	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6408604	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6235574	Planetary Science;All Astronomy
+5376784	Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5376831	Mathematical and Theoretical Physics;All Physics
+5376837	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5371420	Organic Chemistry;All Chemistry
+5813995	Nanoscience and Nanobiotechnology;All Physics
+5371385	General Chemistry;Nanoscience and Nanobiotechnology;All Physics;All Chemistry
+5384251	Analytical Chemistry;Optical Physics, Quantum Electronics, Photonics;All Physics;All Chemistry
+5371382	General Chemistry;All Chemistry
+6105805	Nanoscience and Nanobiotechnology;All Physics
+5731187	Nanoscience and Nanobiotechnology;All Physics
+5373340	General Chemistry;All Chemistry
+6408019	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5371355	General Physics;All Physics
+5489859	Chemical Biology;All Chemistry
+5370404	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5370406	Biological Physics;Chemical Biology;All Physics;All Chemistry
+6273513	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5370408	Biological Physics;Chemical Biology;General Chemistry;All Physics;All Chemistry
+5715276	Mathematical and Theoretical Physics;All Physics
+5371569	Analytical Chemistry;All Chemistry
+5383260	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5383261	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5383516	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6029058	Optical Physics, Quantum Electronics, Photonics;All Physics
+5381861	General Astronomy;General Chemistry;General Physics;All Astronomy;All Physics;All Chemistry
+5375414	General Astronomy;Planetary Science;All Astronomy
+5372286	Astronomy and Astrophysics;All Astronomy
+5924430	Nanoscience and Nanobiotechnology;All Physics
+7073100	Nanoscience and Nanobiotechnology;All Physics
+5856631	Chemical Biology;All Chemistry
+5368825	Condensed Matter and Solid State;General Physics;All Physics
+5378182	Mathematical and Theoretical Physics;All Physics
+5383947	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;All Physics
+6235558	Planetary Science;All Astronomy
+6821580	Mathematical and Theoretical Physics;All Physics
+5381265	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5381260	Particle Physics;All Physics
+5381262	Mathematical and Theoretical Physics;All Physics
+5377603	Analytical Chemistry;Chemical Biology;All Chemistry
+6373666	Organic Chemistry;All Chemistry
+5382113	General Astronomy;All Astronomy
+5380394	Chemical Biology;All Chemistry
+6751103	General Physics;All Physics
+5908770	Particle Physics;All Physics
+5374001	Astronomy and Astrophysics;Particle Physics;Particle Physics;All Astronomy;All Physics
+5371398	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5374004	Atomic, Molecular, and Chemical Physics;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5374007	Polymer Chemistry;All Chemistry
+5832411	General Chemistry;All Chemistry
+5156082	Chemical Biology;All Chemistry
+6835558	Chemical Biology;Organic Chemistry;All Chemistry
+5478148	Atomic, Molecular, and Chemical Physics;General Chemistry;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5478149	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6335542	Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5380780	Optical Physics, Quantum Electronics, Photonics;All Physics
+3301649	General Astronomy;General Chemistry;General Physics;All Physics;All Astronomy;All Chemistry
+5381945	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5380807	Organic Chemistry;All Chemistry
+5380806	Organic Chemistry;All Chemistry
+5380804	Chemical Biology;Organic Chemistry;All Chemistry
+5371205	Chemical Biology;Organic Chemistry;All Chemistry
+5908708	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;General Physics;Particle Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5908709	Astronomy and Astrophysics;General Physics;General Physics;Particle Physics;Particle Physics;All Astronomy;All Physics
+6835672	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6570178	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6280024	Astronomy and Astrophysics;All Astronomy
+5368795	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry;All Physics;All Chemistry
+6408530	Particle Physics;All Physics
+5369533	Cosmology;General Astronomy;General Relativity;All Astronomy
+5369530	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6311146	Condensed Matter and Solid State;All Physics
+5370480	Chemical Biology;Organic Chemistry;All Chemistry
+5826869	General Astronomy;All Astronomy
+5378163	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5378162	Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry;All Physics;All Chemistry
+7072450	General Astronomy;All Astronomy
+5777495	General Physics;All Physics
+5378202	Analytical Chemistry;All Chemistry
+5369430	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;General Chemistry;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry;All Chemistry;All Physics
+5477632	Astronomy and Astrophysics;Planetary Science;All Astronomy
+5377948	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5374737	Planetary Science;All Astronomy
+5379738	Chemical Biology;All Chemistry
+5376996	Analytical Chemistry;Chemical Biology;All Chemistry
+5376997	Analytical Chemistry;Chemical Biology;All Chemistry
+5368702	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5368703	Biological Physics;Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5368701	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5368704	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5368705	Biological Physics;Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5371374	Chemical Biology;All Chemistry
+5826664	General Chemistry;All Chemistry
+5371373	General Chemistry;All Chemistry
+5777370	Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry;Polymer Chemistry;All Physics;All Chemistry
+5379249	Mathematical and Theoretical Physics;All Physics
+5964721	Astronomy and Astrophysics;Cosmology;General Astronomy;Particle Physics;All Astronomy;All Physics
+6451343	Particle Physics;All Physics
+5372679	Analytical Chemistry;All Chemistry
+6373883	General Chemistry;All Chemistry
+5477687	Chemical Biology;All Chemistry
+5378060	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry
+5383865	Organic Chemistry;All Chemistry
+5383866	Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Organic Chemistry;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5383867	Organic Chemistry;All Chemistry
+5370575	Chemical Biology;All Chemistry
+4833001	General Physics;Particle Physics;All Physics
+6821587	Astronomy and Astrophysics;All Astronomy
+5381228	Biological Physics;Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5381229	Biological Physics;Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5379016	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry
+5379017	Analytical Chemistry;Chemical Biology;All Chemistry
+5383253	Astronomy and Astrophysics;General Astronomy;All Astronomy
+5373305	Planetary Science;All Astronomy
+6408495	Nanoscience and Nanobiotechnology;All Physics
+5383258	Condensed Matter and Solid State;All Physics
+5374003	Particle Physics;All Physics
+6821672	Infrared, Optical, and Radio Astronomy;Optical Physics, Quantum Electronics, Photonics;All Astronomy;All Physics
+7204093	Mathematical and Theoretical Physics;All Physics
+5686467	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5373973	General Physics;All Physics
+5381201	General Physics;All Physics
+6835233	Optical Physics, Quantum Electronics, Photonics;All Physics
+6398566	General Chemistry;All Chemistry
+5372070	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5382980	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5370416	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5513715	Nanoscience and Nanobiotechnology;All Physics
+3326779	Optical Physics, Quantum Electronics, Photonics;All Physics
+4822923	Condensed Matter and Solid State;All Physics
+6955464	Nanoscience and Nanobiotechnology;All Physics
+5377654	Condensed Matter and Solid State;All Physics
+5378799	Mathematical and Theoretical Physics;All Physics
+4833096	General Chemistry;All Chemistry
+6408331	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6408330	Chemical Biology;All Chemistry
+5377659	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6797292	Nanoscience and Nanobiotechnology;All Physics
+5382207	General Chemistry;All Chemistry
+6217278	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;All Physics
+5725960	Chemical Biology;Inorganic and Organometallic Chemistry;Organic Chemistry;All Chemistry
+5375882	Inorganic and Organometallic Chemistry;All Chemistry
+5375881	Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Nanoscience and Nanobiotechnology;All Physics;All Chemistry
+5375880	Inorganic and Organometallic Chemistry;All Chemistry
+5370392	Biological Physics;Chemical Biology;All Physics;All Chemistry
+6105619	Chemical Biology;Organic Chemistry;All Chemistry
+5841825	General Chemistry;All Chemistry
+5370399	Chemical Biology;All Chemistry
+5841820	Atomic, Molecular, and Chemical Physics;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5379338	General Physics;All Physics
+5382934	Planetary Science;All Astronomy
+5777450	Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;All Physics
+4835734	Cosmology;General Astronomy;General Relativity;Infrared, Optical, and Radio Astronomy;Planetary Science;All Astronomy
+5380778	Optical Physics, Quantum Electronics, Photonics;All Physics
+7017072	Planetary Science;All Astronomy
+5477713	General Chemistry;All Chemistry
+5964929	General Physics;All Physics
+5477578	Particle Physics;All Physics
+6408069	Biological Physics;General Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;All Physics
+5714960	Mathematical and Theoretical Physics;Particle Physics;All Physics
+7071147	Mathematical and Theoretical Physics;All Physics
+4732150	Mathematical and Theoretical Physics;Particle Physics;All Physics
+7594861	Astronomy and Astrophysics;All Astronomy
+5369982	Astronomy and Astrophysics;Cosmology;General Relativity;All Astronomy
+5374671	General Relativity;General Relativity;Particle Physics;All Astronomy
+5369980	Astronomy and Astrophysics;Cosmology;General Astronomy;General Relativity;All Astronomy
+5369986	Astronomy and Astrophysics;All Astronomy
+6009596	Mathematical and Theoretical Physics;All Physics
+7594843	Astronomy and Astrophysics;All Astronomy
+6105715	Biological Physics;All Physics
+5478633	General Physics;All Physics
+5383675	Organic Chemistry;All Chemistry
+5383676	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Polymer Chemistry;All Physics;All Chemistry
+5378565	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry;All Chemistry;All Physics
+5383672	Organic Chemistry;All Chemistry
+5376820	Nanoscience and Nanobiotechnology;All Physics
+5369977	Astronomy and Astrophysics;General Astronomy;Planetary Science;All Astronomy
+5378235	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;General Chemistry;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry;All Chemistry;All Physics
+5369975	General Astronomy;All Astronomy
+5376797	Analytical Chemistry;All Chemistry
+5918701	Condensed Matter and Solid State;All Physics
+5369978	General Astronomy;All Astronomy
+5369979	Astronomy and Astrophysics;General Astronomy;All Astronomy
+6259536	General Astronomy;General Chemistry;General Physics;All Astronomy;All Chemistry;All Physics
+6335545	General Chemistry;All Chemistry
+5384049	Analytical Chemistry;All Chemistry
+5372680	Chemical Biology;All Chemistry
+5377117	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry;All Chemistry;All Physics
+5262506	Chemical Biology;All Chemistry
+5372688	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6408049	Astronomy and Astrophysics;General Physics;All Physics;All Astronomy
+6408048	General Chemistry;All Chemistry
+5377074	Mathematical and Theoretical Physics;All Physics
+6408040	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5377076	Mathematical and Theoretical Physics;All Physics
+5478258	General Chemistry;All Chemistry
+5383523	Biological Physics;Chemical Biology;All Physics;All Chemistry
+6041804	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5373524	Nanoscience and Nanobiotechnology;All Physics
+6041809	Mathematical and Theoretical Physics;All Physics
+5373522	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;All Physics
+5373523	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;All Physics
+5373521	Analytical Chemistry;Nanoscience and Nanobiotechnology;All Physics;All Chemistry
+5378057	Analytical Chemistry;Inorganic and Organometallic Chemistry;Particle Physics;All Chemistry;All Physics
+5378193	Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5382718	General Physics;All Physics
+5382533	Analytical Chemistry;Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5380224	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5380223	General Chemistry;All Chemistry
+5777496	General Physics;All Physics
+4832118	General Astronomy;All Astronomy
+5381252	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5381255	Atomic, Molecular, and Chemical Physics;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5381258	Condensed Matter and Solid State;All Physics
+6070890	Astronomy and Astrophysics;All Astronomy
+6821727	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5548488	General Physics;All Physics
+5382249	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+4029110	General Astronomy;General Chemistry;General Physics;All Physics;All Astronomy;All Chemistry
+6835008	Analytical Chemistry;All Chemistry
+5374403	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5377995	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5377994	Polymer Chemistry;All Chemistry
+5378280	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+7438686	Analytical Chemistry;All Chemistry
+5382712	Organic Chemistry;All Chemistry
+5382979	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry;All Chemistry
+5376357	Mathematical and Theoretical Physics;All Physics
+5371424	Chemical Biology;All Chemistry
+6704152	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5369735	Chemical Biology;All Chemistry
+5380039	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5381953	Polymer Chemistry;All Chemistry
+5381957	Condensed Matter and Solid State;Inorganic and Organometallic Chemistry;All Physics;All Chemistry
+5380817	Inorganic and Organometallic Chemistry;Organic Chemistry;All Chemistry
+5382409	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5381959	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5726292	Polymer Chemistry;All Chemistry
+5371409	General Chemistry;All Chemistry
+5790498	Particle Physics;All Physics
+5369497	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5371402	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;General Chemistry;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry;All Chemistry;All Physics
+5371401	Chemical Biology;All Chemistry
+5371400	General Chemistry;All Chemistry
+5371406	Nanoscience and Nanobiotechnology;All Physics
+5371404	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;General Chemistry;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry;All Physics;All Chemistry
+5478282	General Chemistry;All Chemistry
+5478281	Analytical Chemistry;Optical Physics, Quantum Electronics, Photonics;All Chemistry
+6400299	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5369540	Planetary Science;All Astronomy
+6578635	General Chemistry;All Chemistry
+5374035	General Physics;All Physics
+5374034	General Physics;All Physics
+7259120	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5369429	General Chemistry;All Chemistry
+5380041	General Chemistry;All Chemistry
+5369399	Analytical Chemistry;All Chemistry
+6954530	General Chemistry;All Chemistry
+6955009	General Physics;All Physics
+5794800	Nanoscience and Nanobiotechnology;All Physics
+5477586	Astronomy and Astrophysics;Planetary Science;All Astronomy
+5964744	Chemical Biology;All Chemistry
+6373801	Nanoscience and Nanobiotechnology;All Physics
+6217234	Nanoscience and Nanobiotechnology;Particle Physics;All Physics
+6984615	General Astronomy;All Astronomy
+6408411	Nanoscience and Nanobiotechnology;All Physics
+6514894	Nanoscience and Nanobiotechnology;All Physics
+5374741	Astronomy and Astrophysics;Planetary Science;All Astronomy
+5814111	General Physics;All Physics
+6408418	Astronomy and Astrophysics;General Astronomy;All Astronomy
+6586840	General Chemistry;All Chemistry
+5377035	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5377403	Astronomy and Astrophysics;Planetary Science;All Astronomy
+5377402	Mathematical and Theoretical Physics;All Physics
+6105629	Organic Chemistry;All Chemistry
+5369974	Cosmology;General Astronomy;General Relativity;Infrared, Optical, and Radio Astronomy;Planetary Science;All Astronomy
+5377406	Planetary Science;All Astronomy
+6985823	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5375865	Infrared, Optical, and Radio Astronomy;Optical Physics, Quantum Electronics, Photonics;All Astronomy;All Physics
+5369973	Astronomy and Astrophysics;Planetary Science;All Astronomy
+5373209	General Chemistry;All Chemistry
+5373203	Biological Physics;Chemical Biology;All Chemistry;All Physics
+5370497	Analytical Chemistry;All Chemistry
+6282325	General Chemistry;All Chemistry
+5383254	General Astronomy;All Astronomy
+6408457	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5384019	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6897731	Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5383919	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5377717	Mathematical and Theoretical Physics;All Physics
+6984599	Planetary Science;All Astronomy
+5370460	Chemical Biology;Organic Chemistry;Polymer Chemistry;All Chemistry
+5377712	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5383915	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5383916	Mathematical and Theoretical Physics;All Physics
+6408319	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6408318	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5519621	General Astronomy;Infrared, Optical, and Radio Astronomy;All Astronomy
+6051615	Chemical Biology;Organic Chemistry;All Chemistry
+6821386	Analytical Chemistry;All Chemistry
+5478327	Analytical Chemistry;All Chemistry
+5381193	Condensed Matter and Solid State;All Physics
+5381190	Condensed Matter and Solid State;All Physics
+6041930	Astronomy and Astrophysics;All Astronomy
+6140576	Nanoscience and Nanobiotechnology;All Physics
+6373601	Mathematical and Theoretical Physics;Particle Physics;All Physics
+6140575	Chemical Biology;All Chemistry
+6451494	Analytical Chemistry;All Chemistry
+5372069	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;General Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6984540	Nanoscience and Nanobiotechnology;All Physics
+5373967	Chemical Biology;All Chemistry
+5378999	Chemical Biology;Nanoscience and Nanobiotechnology;Polymer Chemistry;All Physics;All Chemistry
+5373962	Organic Chemistry;All Chemistry
+5477849	Condensed Matter and Solid State;All Physics
+6407961	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry;All Physics
+5381996	Chemical Biology;All Chemistry
+5381997	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5380504	Particle Physics;All Physics
+5381995	Chemical Biology;All Chemistry
+5380503	Particle Physics;All Physics
+5380509	Particle Physics;All Physics
+5381448	Polymer Chemistry;All Chemistry
+5381449	Polymer Chemistry;All Chemistry
+5377663	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;All Physics
+5381366	Astronomy and Astrophysics;Particle Physics;All Astronomy;All Physics
+5377884	Inorganic and Organometallic Chemistry;All Chemistry
+6797169	General Chemistry;General Physics;Mathematical and Theoretical Physics;All Chemistry;All Physics
+6451121	Optical Physics, Quantum Electronics, Photonics;All Physics
+5377145	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5381447	Atomic, Molecular, and Chemical Physics;Inorganic and Organometallic Chemistry;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5478456	General Chemistry;General Physics;All Physics;All Chemistry
+6027285	General Physics;All Physics
+5371522	Analytical Chemistry;Chemical Biology;Organic Chemistry;All Chemistry
+5513533	Nanoscience and Nanobiotechnology;All Physics
+5756408	General Physics;Optical Physics, Quantum Electronics, Photonics;All Physics
+7132704	Nanoscience and Nanobiotechnology;All Physics
+5379286	General Physics;All Physics
+6688733	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry
+5381242	Mathematical and Theoretical Physics;All Physics
+5964917	Particle Physics;All Physics
+5964851	Astronomy and Astrophysics;Cosmology;Cosmology;General Relativity;All Astronomy
+5369742	Mathematical and Theoretical Physics;All Physics
+5371631	Astronomy and Astrophysics;General Relativity;Particle Physics;All Physics;All Astronomy
+5369746	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5376967	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5371354	General Physics;All Physics
+4375865	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Chemistry;General Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5814008	General Physics;All Physics
+6408519	General Chemistry;General Physics;All Physics;All Chemistry
+5381140	Analytical Chemistry;All Chemistry
+5379199	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5928940	Chemical Biology;All Chemistry
+4859896	Atomic, Molecular, and Chemical Physics;General Physics;Mathematical and Theoretical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5375399	General Chemistry;All Chemistry
+5379219	Nanoscience and Nanobiotechnology;All Physics
+5964935	Polymer Chemistry;All Chemistry
+6400300	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5376815	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6373830	Mathematical and Theoretical Physics;All Physics
+5375546	Chemical Biology;All Chemistry
+5383353	General Astronomy;All Astronomy
+5372236	Inorganic and Organometallic Chemistry;All Chemistry
+5374714	Infrared, Optical, and Radio Astronomy;Planetary Science;All Astronomy
+5384110	Inorganic and Organometallic Chemistry;All Chemistry
+6897757	Nanoscience and Nanobiotechnology;All Physics
+5374713	Planetary Science;All Astronomy
+5377699	Analytical Chemistry;Biological Physics;Organic Chemistry;All Physics;All Chemistry
+6408051	Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5370427	Chemical Biology;Nanoscience and Nanobiotechnology;All Chemistry;All Physics
+6291124	Cosmology;Cosmology;General Relativity;Infrared, Optical, and Radio Astronomy;Particle Physics;Planetary Science;All Astronomy
+5370425	Biological Physics;Chemical Biology;Nanoscience and Nanobiotechnology;All Physics;All Chemistry
+5381549	General Physics;All Physics
+5421595	General Physics;All Physics
+6408317	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5477667	General Astronomy;All Astronomy
+5383615	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;All Physics
+6797184	Nanoscience and Nanobiotechnology;All Physics
+5368803	Organic Chemistry;All Chemistry
+5368808	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5372711	Chemical Biology;All Chemistry
+7073123	Nanoscience and Nanobiotechnology;All Physics
+6140625	Chemical Biology;General Chemistry;All Chemistry
+6671193	Chemical Biology;All Chemistry
+6408630	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6105833	Chemical Biology;All Chemistry
+5381899	General Astronomy;General Chemistry;General Physics;All Astronomy;All Chemistry;All Physics
+6408228	Inorganic and Organometallic Chemistry;All Chemistry
+6041889	Chemical Biology;All Chemistry
+5368652	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;General Chemistry;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry;All Chemistry;All Physics
+5381246	Mathematical and Theoretical Physics;All Physics
+5381247	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;All Physics
+5381244	Condensed Matter and Solid State;All Physics
+5377961	Atomic, Molecular, and Chemical Physics;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5372785	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5377967	Particle Physics;All Physics
+5377964	Biological Physics;Atomic, Molecular, and Chemical Physics;General Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5372786	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5381934	Biological Physics;Chemical Biology;All Physics;All Chemistry
+6217128	Analytical Chemistry;All Chemistry
+5908759	Organic Chemistry;All Chemistry
+6396690	Astronomy and Astrophysics;Atomic, Molecular, and Chemical Physics;Cosmology;Mathematical and Theoretical Physics;Physical and Theoretical Chemistry;All Astronomy;All Physics;All Chemistry
+5372921	Inorganic and Organometallic Chemistry;All Chemistry
+5373955	Chemical Biology;All Chemistry
+5372015	Atomic, Molecular, and Chemical Physics;Mathematical and Theoretical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5377981	Astronomy and Astrophysics;Mathematical and Theoretical Physics;Particle Physics;All Astronomy;All Physics
+5377222	Analytical Chemistry;Nanoscience and Nanobiotechnology;All Chemistry;All Physics
+6071053	General Chemistry;All Chemistry
+5686211	Organic Chemistry;All Chemistry
+5384977	Inorganic and Organometallic Chemistry;All Chemistry
+5856787	Condensed Matter and Solid State;All Physics
+6181508	General Chemistry;All Chemistry
+5686356	Chemical Biology;All Chemistry
+6070970	Nanoscience and Nanobiotechnology;All Physics
+3756126	Nanoscience and Nanobiotechnology;All Physics
+5371771	Biological Physics;Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6408649	Analytical Chemistry;All Chemistry
+5371419	Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6217214	Nanoscience and Nanobiotechnology;All Physics
+5371410	General Chemistry;Nanoscience and Nanobiotechnology;All Physics;All Chemistry
+7178475	Mathematical and Theoretical Physics;All Physics
+5371412	General Chemistry;All Chemistry
+5371413	Chemical Biology;All Chemistry
+5371414	Chemical Biology;All Chemistry
+6587228	Nanoscience and Nanobiotechnology;All Physics
+6797351	Analytical Chemistry;All Chemistry
+5368699	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5377521	Chemical Biology;Inorganic and Organometallic Chemistry;All Chemistry
+5379920	Nanoscience and Nanobiotechnology;All Physics
+5379921	Nanoscience and Nanobiotechnology;All Physics
+5648806	Inorganic and Organometallic Chemistry;All Chemistry
+5707406	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5369552	Nanoscience and Nanobiotechnology;All Physics
+5369557	Particle Physics;All Physics
+6984448	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;General Chemistry;Inorganic and Organometallic Chemistry;Nanoscience and Nanobiotechnology;Organic Chemistry;Physical and Theoretical Chemistry;Polymer Chemistry;All Physics;All Chemistry
+6513784	Analytical Chemistry;All Chemistry
+6878153	Polymer Chemistry;All Chemistry
+5375125	General Chemistry;All Chemistry
+5984891	General Chemistry;All Chemistry
+5369410	Analytical Chemistry;All Chemistry
+5378266	General Chemistry;All Chemistry
+6071028	Nanoscience and Nanobiotechnology;All Physics
+6821171	Planetary Science;All Astronomy
+5377798	Nanoscience and Nanobiotechnology;All Physics
+5381294	General Physics;All Physics
+5381291	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+7178141	Nanoscience and Nanobiotechnology;All Physics
+5381293	General Physics;All Physics
+5381993	Chemical Biology;All Chemistry
+5378501	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+6105631	Inorganic and Organometallic Chemistry;All Chemistry
+5369671	Inorganic and Organometallic Chemistry;All Chemistry
+6105637	Inorganic and Organometallic Chemistry;All Chemistry
+5382702	Chemical Biology;All Chemistry
+5382703	Inorganic and Organometallic Chemistry;All Chemistry
+5382876	General Astronomy;General Chemistry;General Physics;All Chemistry;All Physics;All Astronomy
+5382701	General Chemistry;All Chemistry
+5382706	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5382707	General Chemistry;All Chemistry
+6400230	Nanoscience and Nanobiotechnology;All Physics
+5371399	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5375754	General Chemistry;Nanoscience and Nanobiotechnology;All Chemistry;All Physics
+5379223	Nanoscience and Nanobiotechnology;All Physics
+5376921	Analytical Chemistry;Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+6513646	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5379224	Nanoscience and Nanobiotechnology;All Physics
+5370488	Chemical Biology;Polymer Chemistry;All Chemistry
+5379842	Mathematical and Theoretical Physics;All Physics
+5373210	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5370481	Chemical Biology;Organic Chemistry;All Chemistry
+5370482	Chemical Biology;Organic Chemistry;All Chemistry
+6797072	Condensed Matter and Solid State;Particle Physics;Polymer Chemistry;All Physics;All Chemistry
+5370485	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5726318	General Chemistry;All Chemistry
+5827214	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5371950	Chemical Biology;All Chemistry
+6236013	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5382696	General Chemistry;All Chemistry
+6105835	Chemical Biology;All Chemistry
+5370412	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5370411	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5377701	Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5370417	Chemical Biology;All Chemistry
+5379741	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5370414	Biological Physics;Chemical Biology;All Physics;All Chemistry
+5370418	Chemical Biology;Organic Chemistry;All Chemistry
+5371427	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5374116	Astronomy and Astrophysics;General Astronomy;All Astronomy
+6105644	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5777500	Nanoscience and Nanobiotechnology;All Physics
+6105641	Nanoscience and Nanobiotechnology;All Physics
+6105640	Atomic, Molecular, and Chemical Physics;Organic Chemistry;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5383370	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5371421	General Chemistry;All Chemistry
+5383372	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+6105649	Chemical Biology;Organic Chemistry;All Chemistry
+5375589	Nanoscience and Nanobiotechnology;All Physics
+5382197	Biological Physics;All Physics
+6408283	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5374509	Mathematical and Theoretical Physics;All Physics
+6070940	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5372190	General Physics;All Physics
+5375401	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;Particle Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5378965	Atomic, Molecular, and Chemical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5478134	Astronomy and Astrophysics;General Astronomy;All Astronomy
+6051569	Atomic, Molecular, and Chemical Physics;General Chemistry;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5027246	Chemical Biology;Inorganic and Organometallic Chemistry;All Chemistry
+5827507	Astronomy and Astrophysics;Cosmology;Mathematical and Theoretical Physics;All Physics;All Astronomy
+6335419	Condensed Matter and Solid State;All Physics
+6335418	Polymer Chemistry;All Chemistry
+5377777	Analytical Chemistry;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5377952	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5377950	Atomic, Molecular, and Chemical Physics;General Chemistry;General Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5377773	Chemical Biology;Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Chemistry;All Physics
+5377955	Atomic, Molecular, and Chemical Physics;Organic Chemistry;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6936942	General Physics;All Physics
+5985263	General Astronomy;All Astronomy
+5377959	Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6936947	General Chemistry;All Chemistry
+5381279	Planetary Science;All Astronomy
+7258622	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+6878128	General Physics;All Physics
+6897568	Nanoscience and Nanobiotechnology;All Physics
+5371286	Astronomy and Astrophysics;All Astronomy
+5370743	General Physics;All Physics
+3995313	General Astronomy;General Chemistry;General Physics;All Astronomy;All Chemistry;All Astronomy
+7072445	General Chemistry;All Chemistry
+5380499	Particle Physics;All Physics
+5726027	General Chemistry;All Chemistry
+5377877	Organic Chemistry;All Chemistry
+5429657	General Chemistry;All Chemistry
+6259255	General Physics;All Physics
+7259116	General Physics;All Physics
+5377751	Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;All Physics
+5777434	General Physics;All Physics
+5369451	General Physics;All Physics
+5380158	Astronomy and Astrophysics;General Astronomy;All Astronomy
+5380016	Chemical Biology;Organic Chemistry;All Chemistry
+5964901	Nanoscience and Nanobiotechnology;All Physics
+5379793	Cosmology;General Astronomy;General Relativity;Infrared, Optical, and Radio Astronomy;Planetary Science;All Astronomy
+5376878	Analytical Chemistry;All Chemistry
+5376872	Planetary Science;All Astronomy
+5377458	Particle Physics;All Physics
+4833992	General Chemistry;All Chemistry
+6334557	Analytical Chemistry;All Chemistry
+5376428	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5841891	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;Polymer Chemistry;All Chemistry;All Physics
+5369529	Organic Chemistry;All Chemistry
+5777481	Biological Physics;Atomic, Molecular, and Chemical Physics;Condensed Matter and Solid State;General Physics;Mathematical and Theoretical Physics;Nanoscience and Nanobiotechnology;Optical Physics, Quantum Electronics, Photonics;Particle Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+5378214	Optical Physics, Quantum Electronics, Photonics;All Physics
+5918692	Condensed Matter and Solid State;Nanoscience and Nanobiotechnology;All Physics
+5371519	General Physics;All Physics
+5369527	Inorganic and Organometallic Chemistry;All Chemistry
+5378636	Atomic, Molecular, and Chemical Physics;Physical and Theoretical Chemistry;All Physics;All Chemistry
+7594790	General Physics;All Physics
+5369545	Planetary Science;All Astronomy
+5379252	Mathematical and Theoretical Physics;Cosmology;General Relativity;All Astronomy;All Physics
+5377354	Materials and Nanochemistry;All Chemistry
+5377448	Materials and Nanochemistry;All Chemistry
 2476849	Materials and Nanochemistry;General Physics	Database
 2661413	General Astronomy;General Physics;General Chemistry	Database
 2787682	Mathematical and Theoretical Physics	Database
@@ -712,212 +712,212 @@
 7715537	Biological Physics;Chemical Biology	Database
 7715969	General Chemistry	Database
 7715979	Mathematical and Theoretical Physics	Database
-2709862	General Physics
-801923	General Physics
-2733388	General Physics
-5052073	General Physics
-6958362	General Physics
-2080064	General Physics
-958553	General Physics
-53572	General Physics
-2245727	General Physics
-2768751	General Physics
-125002	General Physics
-3164384	General Physics
-908110	General Physics
-4860698	General Physics
-2631450	General Physics
-1525575	General Physics
-4983771	General Physics
-570236	General Physics
-5958121	General Physics
-832262	General Physics
-2463892	General Physics
-826200	General Physics
-5842779	General Physics
-4544394	General Physics
-577983	General Physics
-5359855	General Physics
-2902212	General Physics
-2236999	General Physics
-2262371	General Physics
-7002001	General Physics
-11159	General Physics
-474925	General Physics
-5401836	General Physics
-4962137	General Physics
-3781195	General Physics
-2753442	General Physics
-6066564	General Physics; General Astronomy
-666069	General Physics
-2711130	General Physics
-6332696	General Physics
-614894	General Physics
-146923	General Physics
-819869	General Physics
-551038	General Physics
-6331379	General Physics
-6186462	General Physics
-144063	General Physics
-3485152	General Physics
-58673	General Physics
-1651052	General Physics
-585329	General Physics
-3143748	General Physics
-1230516	General Physics
-800096	General Physics
-5147491	General Physics
-6085169	General Physics
-2467057	General Physics
-3467782	General Physics
-7162294	General Physics
-1626540	General Physics
-4685931	General Physics
-64409	General Physics
-579253	General Physics
-5836820	General Physics
-2712950	General Physics
-969122	General Physics
-10936	General Physics
-4855635	General Physics
-3892631	General Physics
-2453078	General Physics
-5716860	General Physics
-5723684	General Physics
-7144249	General Physics
-7124347	General Physics
-2010730	General Physics
-4995236	General Physics
-6417926	General Physics
-3965685	General Physics
-1352570	General Astronomy
-34856	General Astronomy
-2477413	General Astronomy
-6279632	General Astronomy
-6332332	General Astronomy
-586961	General Astronomy
-131404	General Astronomy
-608562	General Astronomy
-3650853	General Astronomy
-1116877	General Astronomy
-509696	General Astronomy
-64023272	General Astronomy
-1763592	General Astronomy
-7588929	General Astronomy
-1683627	General Astronomy
-3541968	General Astronomy
-730481	General Astronomy
-3292818	General Astronomy
-545197	General Astronomy
-2221192	General Astronomy
-408243	General Astronomy
-96976	General Astronomy
-1183286	General Astronomy
-1183288	General Astronomy
-7588386	General Astronomy
-1530592	General Astronomy
-6170783	General Astronomy
-3676591	General Astronomy
-42114	General Astronomy
-4076893	General Astronomy
-1196172	General Astronomy
-2326709	General Astronomy
-1672536	General Astronomy
-7934151	General Astronomy
-1507694	General Astronomy
-6253038	General Astronomy
-3310618	General Astronomy
-6332243	General Astronomy
-1557329	General Astronomy
-6555491	General Astronomy
-70093	General Astronomy
-3347455	General Astronomy
-4499824	General Astronomy
-2106406	General Astronomy
-624739	General Astronomy
-944270	General Astronomy
-810283	General Astronomy
-2300204	General Astronomy
-6413861	General Chemistry
-3931687	General Chemistry
-5368263	General Chemistry
-2250964	General Chemistry
-2073065	General Chemistry
-4537920	General Chemistry
-2250477	General Chemistry
-815295	General Chemistry
-658004	General Chemistry
-6790057	General Chemistry
-6998966	General Chemistry
-7141915	General Chemistry
-6344774	General Chemistry
-6912097	General Chemistry
-6095236	General Chemistry
-2010735	General Chemistry
-832770	General Chemistry
-3351915	General Chemistry
-1764189	General Chemistry
-4863643	General Chemistry
-3160905	General Chemistry
-4067254	General Chemistry
-1521689	General Chemistry
-248821	General Chemistry
-3292044	General Chemistry
-913903	General Chemistry
-461339	General Chemistry
-1652946	General Chemistry
-555250	General Chemistry
-7650	General Chemistry
-528483	General Chemistry
-2452748	General Chemistry
-423333	General Chemistry
-1105297	General Chemistry
-232228	General Chemistry
-2712953	General Chemistry
-928897	General Chemistry
-521130	General Chemistry
-1229455	General Chemistry
-2262005	General Chemistry
-787701	General Chemistry
-1967723	General Chemistry
-2937482	General Chemistry
-427097	General Chemistry
-19813	General Chemistry
-19745	General Chemistry
-2217162	General Chemistry
-2188902	General Chemistry
-8029305	General Chemistry
-4153983	General Chemistry
-681598	General Chemistry
-1363007	General Chemistry
-2330740	General Chemistry
-1544838	General Chemistry
-279990	General Chemistry
-725501	General Chemistry
-1191672	General Chemistry
-2138069	General Chemistry
-262869	General Chemistry
-6343504	General Chemistry
-1937222	General Chemistry
-439306	General Chemistry
-563200	General Chemistry
-1328948	General Chemistry
-13650	General Chemistry
-64112	General Chemistry
-1967757	General Chemistry
-2857180	General Chemistry
-1559920	General Chemistry
-586241	General Chemistry
-2799895	General Chemistry
-4150915	General Chemistry
-2837319	General Chemistry
-1344442	General Chemistry
-193987	General Chemistry
-3998902	General Chemistry
-914422	General Chemistry
-1235247	General Chemistry
-82585	General Chemistry
-3486087	General Chemistry
-4991989	General Chemistry
-578081	General Chemistry
-6192175	General Chemistry
+2709862	All Physics
+801923	All Physics
+2733388	All Physics
+5052073	All Physics
+6958362	All Physics
+2080064	All Physics
+958553	All Physics
+53572	All Physics
+2245727	All Physics
+2768751	All Physics
+125002	All Physics
+3164384	All Physics
+908110	All Physics
+4860698	All Physics
+2631450	All Physics
+1525575	All Physics
+4983771	All Physics
+570236	All Physics
+5958121	All Physics
+832262	All Physics
+2463892	All Physics
+826200	All Physics
+5842779	All Physics
+4544394	All Physics
+577983	All Physics
+5359855	All Physics
+2902212	All Physics
+2236999	All Physics
+2262371	All Physics
+7002001	All Physics
+11159	All Physics
+474925	All Physics
+5401836	All Physics
+4962137	All Physics
+3781195	All Physics
+2753442	All Physics
+6066564	All Physics; All Astronomy
+666069	All Physics
+2711130	All Physics
+6332696	All Physics
+614894	All Physics
+146923	All Physics
+819869	All Physics
+551038	All Physics
+6331379	All Physics
+6186462	All Physics
+144063	All Physics
+3485152	All Physics
+58673	All Physics
+1651052	All Physics
+585329	All Physics
+3143748	All Physics
+1230516	All Physics
+800096	All Physics
+5147491	All Physics
+6085169	All Physics
+2467057	All Physics
+3467782	All Physics
+7162294	All Physics
+1626540	All Physics
+4685931	All Physics
+64409	All Physics
+579253	All Physics
+5836820	All Physics
+2712950	All Physics
+969122	All Physics
+10936	All Physics
+4855635	All Physics
+3892631	All Physics
+2453078	All Physics
+5716860	All Physics
+5723684	All Physics
+7144249	All Physics
+7124347	All Physics
+2010730	All Physics
+4995236	All Physics
+6417926	All Physics
+3965685	All Physics
+1352570	All Astronomy
+34856	All Astronomy
+2477413	All Astronomy
+6279632	All Astronomy
+6332332	All Astronomy
+586961	All Astronomy
+131404	All Astronomy
+608562	All Astronomy
+3650853	All Astronomy
+1116877	All Astronomy
+509696	All Astronomy
+64023272	All Astronomy
+1763592	All Astronomy
+7588929	All Astronomy
+1683627	All Astronomy
+3541968	All Astronomy
+730481	All Astronomy
+3292818	All Astronomy
+545197	All Astronomy
+2221192	All Astronomy
+408243	All Astronomy
+96976	All Astronomy
+1183286	All Astronomy
+1183288	All Astronomy
+7588386	All Astronomy
+1530592	All Astronomy
+6170783	All Astronomy
+3676591	All Astronomy
+42114	All Astronomy
+4076893	All Astronomy
+1196172	All Astronomy
+2326709	All Astronomy
+1672536	All Astronomy
+7934151	All Astronomy
+1507694	All Astronomy
+6253038	All Astronomy
+3310618	All Astronomy
+6332243	All Astronomy
+1557329	All Astronomy
+6555491	All Astronomy
+70093	All Astronomy
+3347455	All Astronomy
+4499824	All Astronomy
+2106406	All Astronomy
+624739	All Astronomy
+944270	All Astronomy
+810283	All Astronomy
+2300204	All Astronomy
+6413861	All Chemistry
+3931687	All Chemistry
+5368263	All Chemistry
+2250964	All Chemistry
+2073065	All Chemistry
+4537920	All Chemistry
+2250477	All Chemistry
+815295	All Chemistry
+658004	All Chemistry
+6790057	All Chemistry
+6998966	All Chemistry
+7141915	All Chemistry
+6344774	All Chemistry
+6912097	All Chemistry
+6095236	All Chemistry
+2010735	All Chemistry
+832770	All Chemistry
+3351915	All Chemistry
+1764189	All Chemistry
+4863643	All Chemistry
+3160905	All Chemistry
+4067254	All Chemistry
+1521689	All Chemistry
+248821	All Chemistry
+3292044	All Chemistry
+913903	All Chemistry
+461339	All Chemistry
+1652946	All Chemistry
+555250	All Chemistry
+7650	All Chemistry
+528483	All Chemistry
+2452748	All Chemistry
+423333	All Chemistry
+1105297	All Chemistry
+232228	All Chemistry
+2712953	All Chemistry
+928897	All Chemistry
+521130	All Chemistry
+1229455	All Chemistry
+2262005	All Chemistry
+787701	All Chemistry
+1967723	All Chemistry
+2937482	All Chemistry
+427097	All Chemistry
+19813	All Chemistry
+19745	All Chemistry
+2217162	All Chemistry
+2188902	All Chemistry
+8029305	All Chemistry
+4153983	All Chemistry
+681598	All Chemistry
+1363007	All Chemistry
+2330740	All Chemistry
+1544838	All Chemistry
+279990	All Chemistry
+725501	All Chemistry
+1191672	All Chemistry
+2138069	All Chemistry
+262869	All Chemistry
+6343504	All Chemistry
+1937222	All Chemistry
+439306	All Chemistry
+563200	All Chemistry
+1328948	All Chemistry
+13650	All Chemistry
+64112	All Chemistry
+1967757	All Chemistry
+2857180	All Chemistry
+1559920	All Chemistry
+586241	All Chemistry
+2799895	All Chemistry
+4150915	All Chemistry
+2837319	All Chemistry
+1344442	All Chemistry
+193987	All Chemistry
+3998902	All Chemistry
+914422	All Chemistry
+1235247	All Chemistry
+82585	All Chemistry
+3486087	All Chemistry
+4991989	All Chemistry
+578081	All Chemistry
+6192175	All Chemistry
