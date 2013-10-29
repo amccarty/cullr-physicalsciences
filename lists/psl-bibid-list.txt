@@ -921,3 +921,15 @@
 4991989	All Chemistry
 578081	All Chemistry
 6192175	All Chemistry
+2080863	All Physics; General Physics
+866223	All Physics; General Physics
+489820	All Physics; General Physics
+90961	All Physics; General Physics
+87101	All Physics; General Physics
+801231	All Physics; General Physics
+59618	All Physics; General Physics
+233860	All Physics; General Physics
+826538	All Physics; General Physics
+1575467	All Physics; General Physics
+42657	All Physics; General Physics
+3597963	All Physics; General Physics
