@@ -937,3 +937,4 @@
 805959	All Physics; General Physics
 813146	All Physics; General Physics
 62466	All Physics; General Physics
+8288204	All Chemistry; General Chemistry
