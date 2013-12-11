@@ -2,6 +2,7 @@
 /**
  * export_curation.php - find curated records in a virtual library
  * (run from the command line)
+ * php export_curation.php production
  */
 include_once "VL_PhysicalSciences.php";
 
