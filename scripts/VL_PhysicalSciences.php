@@ -13,18 +13,18 @@ class VL_PhysicalSciences extends VirtualLibrary2 {
 		$this->attribute_fields = array(
 			'cullr_resource_discipline_weight' => 'Discipline',
 			//'culweight' => 'Discipline Weight', build using copyfield so no need to list
+			'cullr_deleted_b' => 'Deleted',
+			'cullr_resource_oa' => 'Open Access Journal',
 			'cullr_resource_sub_type' => 'Sub-Resource Type',
-			'cullr_vl_annotation_author' => 'Annotation Author',
-			'cullr_vl_annotation' => 'Annotation',
-			'cullr_vl_keywords' => 'Free Text Keywords',
-			'cullr_vl_latest_update' => 'Latest Update',
-			'cullr_vl_suppress' => 'Suppress Record',
-			'cullr_featured_resource_b' => 'Featured Resource',
-			'cullr_vli_internal_note_author' => 'Internal Note Author',
-			'cullr_vli_internal_note_date' => 'Internal Note Date',
-			'cullr_vli_internal_note' => 'Internal Note',
+			'cullr_resource_toc_url' => 'Table of Contents - Link',
 			'cullr_vl_alt_title' => 'Curator Alternative Title',
 			'cullr_vl_alt_url' => 'Curator Alternative Resource URL',
+			'cullr_vl_annotation' => 'Annotation',
+			'cullr_vl_annotation_author' => 'Annotation Author',
+			'cullr_vl_cover_image' => 'Cover Image',
+			'cullr_vl_suppress' => 'Suppress Record',
+			'weight' => 'Weight',
+			'combined_title_fields' => 'Combined Title Fields',
 			);
 
 		// initial value supplied by svn/spreadsheet file, not otherwise updated
@@ -43,15 +43,14 @@ class VL_PhysicalSciences extends VirtualLibrary2 {
 		$this->curation_fields = array(
 			'cullr_vl_annotation_author' => 'Annotation Author',
 			'cullr_vl_annotation' => 'Annotation',
-			'cullr_vl_keywords' => 'Free Text Keywords',
-			'cullr_vl_latest_update' => 'Latest Update',
 			'cullr_vl_suppress' => 'Suppress Record',
-			'cullr_featured_resource_b' => 'Featured Resource',
-			'cullr_vli_internal_note_author' => 'Internal Note Author',
-			'cullr_vli_internal_note_date' => 'Internal Note Date',
-			'cullr_vli_internal_note' => 'Internal Note',
 			'cullr_vl_alt_title' => 'Curator Alternative Title',
 			'cullr_vl_alt_url' => 'Curator Alternative Resource URL',
+			'cullr_deleted_b' => 'Deleted',
+			'cullr_resource_oa' => 'Open Access Journal',
+			'cullr_vl_cover_image' => 'Cover Image',
+			'weight' => 'Weight',
+			'cullr_resource_toc_url' => 'Table of Contents - Link',
 			);
 
 		/* physical sciences library */
@@ -82,18 +81,7 @@ class VL_PhysicalSciences extends VirtualLibrary2 {
 	 */
 	public function list_curation_fields() {
 		// which fields to return from virtual library
-		$fields = array(
-			'cullr_deleted_b',
-			'cullr_resource_oa',
-			'cullr_resource_toc_url',
-			'cullr_vl_alt_title',
-			'cullr_vl_alt_url',
-			'cullr_vl_annotation',
-			'cullr_vl_annotation_author',
-			'cullr_vl_cover_image',
-			'cullr_vl_suppress',
-			'weight',
-			);
+		$fields = array_keys($this->curation_fields());
 		$attribute_field_list = array('fl' => implode(',', $fields));
 		return $attribute_field_list;
 	}
