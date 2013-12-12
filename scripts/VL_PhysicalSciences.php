@@ -11,9 +11,9 @@ class VL_PhysicalSciences extends VirtualLibrary2 {
 
 		// initial value supplied by curator, updated by curator
 		$this->attribute_fields = array(
-			'cullr_resource_discipline_weight' => 'Discipline',
-			//'culweight' => 'Discipline Weight', build using copyfield so no need to list
+			'combined_title_fields' => 'Combined Title Fields',
 			'cullr_deleted_b' => 'Deleted',
+			'cullr_resource_discipline_weight' => 'Discipline',
 			'cullr_resource_oa' => 'Open Access Journal',
 			'cullr_resource_sub_type' => 'Sub-Resource Type',
 			'cullr_resource_toc_url' => 'Table of Contents - Link',
@@ -24,8 +24,8 @@ class VL_PhysicalSciences extends VirtualLibrary2 {
 			'cullr_vl_cover_image' => 'Cover Image',
 			'cullr_vl_suppress' => 'Suppress Record',
 			'weight' => 'Weight',
-			'combined_title_fields' => 'Combined Title Fields',
 			);
+			//'culweight' => 'Discipline Weight', build using copyfield so no need to list
 
 		// initial value supplied by svn/spreadsheet file, not otherwise updated
 		$this->auxiliary_fields = array(
