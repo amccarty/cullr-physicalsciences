@@ -73,6 +73,32 @@ class VL_PhysicalSciences extends VirtualLibrary2 {
 		$this->library_indexing_url_production = "http://raksha02.library.cornell.edu:8951/solr/select?";
 		$this->library_indexing_url_test = "http://raksha01.library.cornell.edu:8951/solr/select?";
 		}
+
+	/**
+	 * make a comma delimited list of fields to preserve from the
+	 * current curated virtual library
+	 * override for PSL to account for a few fields that were in the
+	 * wrong lists.
+	 */
+	public function list_curation_fields() {
+		// which fields to return from virtual library
+		$fields = array(
+			'cullr_deleted_b',
+			'cullr_resource_oa',
+			'cullr_resource_toc_url',
+			'cullr_vl_alt_title',
+			'cullr_vl_alt_url',
+			'cullr_vl_annotation',
+			'cullr_vl_annotation_author',
+			'cullr_vl_cover_image',
+			'cullr_vl_suppress',
+			'weight',
+			);
+		$attribute_field_list = array('fl' => implode(',', $fields));
+		return $attribute_field_list;
+	}
+
+
 }
 
 ?>
