@@ -81,7 +81,9 @@ class VL_PhysicalSciences extends VirtualLibrary2 {
 	 */
 	public function list_curation_fields() {
 		// which fields to return from virtual library
-		$fields = array_keys($this->curation_fields());
+		$preserve = array_merge($this->curation_fields, $this->plop_initialize_only_fields, $this->auxiliary_fields);
+		$fields = array_keys($preserve);
+		print_r(array('list_curation_fields', $fields)); //jgrdebug
 		$attribute_field_list = array('fl' => implode(',', $fields));
 		return $attribute_field_list;
 	}
