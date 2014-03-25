@@ -941,3 +941,5 @@
 7714730	General Chemistry	Database
 8327866	General Astronomy; Astronomy and Astrophysics;Cosmology; General Relativity; Infrared, Optical, and Radio Astronomy; Planetary Science	package
 7068310	General Physics; Atomic, Molecular, and Chemical Physics; Biological Physics; Condensed Matter and Solid State; Nanoscience and Nanobiotechnology; Particle Physics; Optical Physics, Quantum Electronics, Photonics; Mathematical and Theoretical Physics	package
+8310839	General Physics; Atomic, Molecular, and Chemical Physics; Biological Physics; Condensed Matter and Solid State; Nanoscience and Nanobiotechnology; Particle Physics; Optical Physics, Quantum Electronics, Photonics; Mathematical and Theoretical Physics	package
+
