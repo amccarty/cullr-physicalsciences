@@ -620,6 +620,7 @@
     <field name="cullr_resource_additional_author" multiValued="true" type="textgen" indexed="true" stored="true"/>
     <field name="cullr_resource_alt_title" multiValued="true" type="text" indexed="true" stored="true"/>
     <field name="cullr_resource_author" multiValued="true" type="textgen" indexed="true" stored="true"/>
+    <field name="cullr_resource_author_first" multiValued="false" type="textgen" indexed="true" stored="true"/>
     <field name="cullr_resource_bibid" type="string" indexed="true" stored="true"/>
     <field name="cullr_resource_callnumber_a" multiValued="true" type="string" indexed="true" stored="true"/>
     <field name="cullr_resource_callnumber_b" multiValued="true" type="string" indexed="false" stored="true"/>
